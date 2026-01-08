@@ -1,0 +1,2339 @@
+﻿vaccine,activity_type,country_code,country,year,age_first,age_last,target,coverage,gender,proportion_risk
+HPV,routine,ALB,Albania,2006,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2007,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2008,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2009,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2010,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2011,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2012,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2013,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2014,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2015,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2016,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2017,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2018,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2019,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2020,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2021,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2022,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2023,14,14,<NA>,0,female,1
+HPV,routine,ALB,Albania,2024,14,14,<NA>,0.18,female,1
+HPV,routine,AND,Andorra,2006,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2007,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2008,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2009,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2010,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2011,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2012,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2013,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2014,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2015,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2016,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2017,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2018,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2019,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2020,14,14,<NA>,0,female,1
+HPV,routine,AND,Andorra,2021,14,14,<NA>,0.49,female,1
+HPV,routine,AND,Andorra,2022,14,14,<NA>,0.64,female,1
+HPV,routine,AND,Andorra,2023,14,14,<NA>,0.77,female,1
+HPV,routine,AND,Andorra,2024,14,14,<NA>,0.83,female,1
+HPV,routine,ATG,Antigua and Barbuda,2006,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2007,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2008,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2009,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2010,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2011,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2012,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2013,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2014,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2015,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2016,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2017,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2018,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2019,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2020,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2021,14,14,<NA>,0,female,1
+HPV,routine,ATG,Antigua and Barbuda,2022,14,14,<NA>,0.02,female,1
+HPV,routine,ATG,Antigua and Barbuda,2023,14,14,<NA>,0.02,female,1
+HPV,routine,ATG,Antigua and Barbuda,2024,14,14,<NA>,0.01,female,1
+HPV,routine,ARG,Argentina,2006,14,14,<NA>,0,female,1
+HPV,routine,ARG,Argentina,2007,14,14,<NA>,0,female,1
+HPV,routine,ARG,Argentina,2008,14,14,<NA>,0,female,1
+HPV,routine,ARG,Argentina,2009,14,14,<NA>,0,female,1
+HPV,routine,ARG,Argentina,2010,14,14,<NA>,0,female,1
+HPV,routine,ARG,Argentina,2011,14,14,<NA>,0,female,1
+HPV,routine,ARG,Argentina,2012,14,14,<NA>,0,female,1
+HPV,routine,ARG,Argentina,2013,14,14,<NA>,0,female,1
+HPV,routine,ARG,Argentina,2014,14,14,<NA>,0,female,1
+HPV,routine,ARG,Argentina,2015,14,14,<NA>,0,female,1
+HPV,routine,ARG,Argentina,2016,14,14,<NA>,0.43,female,1
+HPV,routine,ARG,Argentina,2017,14,14,<NA>,0.6,female,1
+HPV,routine,ARG,Argentina,2018,14,14,<NA>,0.6,female,1
+HPV,routine,ARG,Argentina,2019,14,14,<NA>,0.6,female,1
+HPV,routine,ARG,Argentina,2020,14,14,<NA>,0.72,female,1
+HPV,routine,ARG,Argentina,2021,14,14,<NA>,0.63,female,1
+HPV,routine,ARG,Argentina,2022,14,14,<NA>,0.71,female,1
+HPV,routine,ARG,Argentina,2023,14,14,<NA>,0.7,female,1
+HPV,routine,ARG,Argentina,2024,14,14,<NA>,0.67,female,1
+HPV,routine,ARM,Armenia,2006,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2007,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2008,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2009,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2010,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2011,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2012,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2013,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2014,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2015,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2016,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2017,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2018,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2019,14,14,<NA>,0,female,1
+HPV,routine,ARM,Armenia,2020,14,14,<NA>,0.02,female,1
+HPV,routine,ARM,Armenia,2021,14,14,<NA>,0.16,female,1
+HPV,routine,ARM,Armenia,2022,14,14,<NA>,0.08,female,1
+HPV,routine,ARM,Armenia,2023,14,14,<NA>,0.14,female,1
+HPV,routine,ARM,Armenia,2024,14,14,<NA>,0.41,female,1
+HPV,routine,AUS,Australia,2006,14,14,<NA>,0,female,1
+HPV,routine,AUS,Australia,2007,14,14,<NA>,0.72,female,1
+HPV,routine,AUS,Australia,2008,14,14,<NA>,0.74,female,1
+HPV,routine,AUS,Australia,2009,14,14,<NA>,0.74,female,1
+HPV,routine,AUS,Australia,2010,14,14,<NA>,0.74,female,1
+HPV,routine,AUS,Australia,2011,14,14,<NA>,0.71,female,1
+HPV,routine,AUS,Australia,2012,14,14,<NA>,0.72,female,1
+HPV,routine,AUS,Australia,2013,14,14,<NA>,0.72,female,1
+HPV,routine,AUS,Australia,2014,14,14,<NA>,0.75,female,1
+HPV,routine,AUS,Australia,2015,14,14,<NA>,0.79,female,1
+HPV,routine,AUS,Australia,2016,14,14,<NA>,0.8,female,1
+HPV,routine,AUS,Australia,2017,14,14,<NA>,0.8,female,1
+HPV,routine,AUS,Australia,2018,14,14,<NA>,0.77,female,1
+HPV,routine,AUS,Australia,2019,14,14,<NA>,0.8,female,1
+HPV,routine,AUS,Australia,2020,14,14,<NA>,0.8,female,1
+HPV,routine,AUS,Australia,2021,14,14,<NA>,0.8,female,1
+HPV,routine,AUS,Australia,2022,14,14,<NA>,0.8,female,1
+HPV,routine,AUS,Australia,2023,14,14,<NA>,0.86,female,1
+HPV,routine,AUS,Australia,2024,14,14,<NA>,0.83,female,1
+HPV,routine,AUT,Austria,2006,14,14,<NA>,0,female,1
+HPV,routine,AUT,Austria,2007,14,14,<NA>,0,female,1
+HPV,routine,AUT,Austria,2008,14,14,<NA>,0,female,1
+HPV,routine,AUT,Austria,2009,14,14,<NA>,0,female,1
+HPV,routine,AUT,Austria,2010,14,14,<NA>,0,female,1
+HPV,routine,AUT,Austria,2011,14,14,<NA>,0,female,1
+HPV,routine,AUT,Austria,2012,14,14,<NA>,0,female,1
+HPV,routine,AUT,Austria,2013,14,14,<NA>,0,female,1
+HPV,routine,AUT,Austria,2014,14,14,<NA>,0,female,1
+HPV,routine,AUT,Austria,2015,14,14,<NA>,0.02,female,1
+HPV,routine,AUT,Austria,2016,14,14,<NA>,0.05,female,1
+HPV,routine,AUT,Austria,2017,14,14,<NA>,0.12,female,1
+HPV,routine,AUT,Austria,2018,14,14,<NA>,0.19,female,1
+HPV,routine,AUT,Austria,2019,14,14,<NA>,0.37,female,1
+HPV,routine,AUT,Austria,2020,14,14,<NA>,0.51,female,1
+HPV,routine,AUT,Austria,2021,14,14,<NA>,0.54,female,1
+HPV,routine,AUT,Austria,2022,14,14,<NA>,0.57,female,1
+HPV,routine,AUT,Austria,2023,14,14,<NA>,0.65,female,1
+HPV,routine,AUT,Austria,2024,14,14,<NA>,0.63,female,1
+HPV,routine,BHS,Bahamas,2006,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2007,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2008,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2009,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2010,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2011,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2012,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2013,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2014,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2015,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2016,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2017,14,14,<NA>,0,female,1
+HPV,routine,BHS,Bahamas,2018,14,14,<NA>,0.06,female,1
+HPV,routine,BHS,Bahamas,2019,14,14,<NA>,0.09,female,1
+HPV,routine,BHS,Bahamas,2020,14,14,<NA>,0.11,female,1
+HPV,routine,BHS,Bahamas,2021,14,14,<NA>,0.27,female,1
+HPV,routine,BHS,Bahamas,2022,14,14,<NA>,0.09,female,1
+HPV,routine,BHS,Bahamas,2023,14,14,<NA>,0.07,female,1
+HPV,routine,BHS,Bahamas,2024,14,14,<NA>,0.03,female,1
+HPV,routine,BGD,Bangladesh,2006,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2007,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2008,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2009,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2010,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2011,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2012,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2013,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2014,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2015,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2016,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2017,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2018,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2019,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2020,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2021,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2022,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2023,14,14,<NA>,0,female,1
+HPV,routine,BGD,Bangladesh,2024,14,14,<NA>,0.15,female,1
+HPV,routine,BRB,Barbados,2006,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2007,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2008,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2009,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2010,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2011,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2012,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2013,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2014,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2015,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2016,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2017,14,14,<NA>,0,female,1
+HPV,routine,BRB,Barbados,2018,14,14,<NA>,0.08,female,1
+HPV,routine,BRB,Barbados,2019,14,14,<NA>,0.31,female,1
+HPV,routine,BRB,Barbados,2020,14,14,<NA>,0.16,female,1
+HPV,routine,BRB,Barbados,2021,14,14,<NA>,0.16,female,1
+HPV,routine,BRB,Barbados,2022,14,14,<NA>,0.27,female,1
+HPV,routine,BRB,Barbados,2023,14,14,<NA>,0.29,female,1
+HPV,routine,BRB,Barbados,2024,14,14,<NA>,0.07,female,1
+HPV,routine,BEL,Belgium,2006,14,14,<NA>,0,female,1
+HPV,routine,BEL,Belgium,2007,14,14,<NA>,0,female,1
+HPV,routine,BEL,Belgium,2008,14,14,<NA>,0.44,female,1
+HPV,routine,BEL,Belgium,2009,14,14,<NA>,0.4775,female,1
+HPV,routine,BEL,Belgium,2010,14,14,<NA>,0.515,female,1
+HPV,routine,BEL,Belgium,2011,14,14,<NA>,0.5525,female,1
+HPV,routine,BEL,Belgium,2012,14,14,<NA>,0.59,female,1
+HPV,routine,BEL,Belgium,2013,14,14,<NA>,0.61,female,1
+HPV,routine,BEL,Belgium,2014,14,14,<NA>,0.62,female,1
+HPV,routine,BEL,Belgium,2015,14,14,<NA>,0.64,female,1
+HPV,routine,BEL,Belgium,2016,14,14,<NA>,0.65,female,1
+HPV,routine,BEL,Belgium,2017,14,14,<NA>,0.66,female,1
+HPV,routine,BEL,Belgium,2018,14,14,<NA>,0.67,female,1
+HPV,routine,BEL,Belgium,2019,14,14,<NA>,0.68,female,1
+HPV,routine,BEL,Belgium,2020,14,14,<NA>,0.69,female,1
+HPV,routine,BEL,Belgium,2021,14,14,<NA>,0.69,female,1
+HPV,routine,BEL,Belgium,2022,14,14,<NA>,0.69,female,1
+HPV,routine,BEL,Belgium,2023,14,14,<NA>,0.72,female,1
+HPV,routine,BEL,Belgium,2024,14,14,<NA>,0.72,female,1
+HPV,routine,BLZ,Belize,2006,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2007,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2008,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2009,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2010,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2011,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2012,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2013,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2014,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2015,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2016,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2017,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2018,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2019,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2020,14,14,<NA>,0,female,1
+HPV,routine,BLZ,Belize,2021,14,14,<NA>,0.25,female,1
+HPV,routine,BLZ,Belize,2022,14,14,<NA>,0.59,female,1
+HPV,routine,BLZ,Belize,2023,14,14,<NA>,0.6,female,1
+HPV,routine,BLZ,Belize,2024,14,14,<NA>,0.67,female,1
+HPV,routine,BTN,Bhutan,2006,14,14,<NA>,0,female,1
+HPV,routine,BTN,Bhutan,2007,14,14,<NA>,0,female,1
+HPV,routine,BTN,Bhutan,2008,14,14,<NA>,0,female,1
+HPV,routine,BTN,Bhutan,2009,14,14,<NA>,0,female,1
+HPV,routine,BTN,Bhutan,2010,14,14,<NA>,0,female,1
+HPV,routine,BTN,Bhutan,2011,14,14,<NA>,0.9,female,1
+HPV,routine,BTN,Bhutan,2012,14,14,<NA>,0.9,female,1
+HPV,routine,BTN,Bhutan,2013,14,14,<NA>,0.97,female,1
+HPV,routine,BTN,Bhutan,2014,14,14,<NA>,0.75,female,1
+HPV,routine,BTN,Bhutan,2015,14,14,<NA>,0.77,female,1
+HPV,routine,BTN,Bhutan,2016,14,14,<NA>,0.68,female,1
+HPV,routine,BTN,Bhutan,2017,14,14,<NA>,0.94,female,1
+HPV,routine,BTN,Bhutan,2018,14,14,<NA>,0.94,female,1
+HPV,routine,BTN,Bhutan,2019,14,14,<NA>,0.96,female,1
+HPV,routine,BTN,Bhutan,2020,14,14,<NA>,0.94,female,1
+HPV,routine,BTN,Bhutan,2021,14,14,<NA>,0.95,female,1
+HPV,routine,BTN,Bhutan,2022,14,14,<NA>,0.75,female,1
+HPV,routine,BTN,Bhutan,2023,14,14,<NA>,0.85,female,1
+HPV,routine,BTN,Bhutan,2024,14,14,<NA>,0.92,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2006,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2007,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2008,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2009,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2010,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2011,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2012,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2013,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2014,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2015,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2016,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2017,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2018,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2019,14,14,<NA>,0,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2020,14,14,<NA>,0.69,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2021,14,14,<NA>,0.73,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2022,14,14,<NA>,0.7,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2023,14,14,<NA>,0.69,female,1
+HPV,routine,BOL,Bolivia (Plurinational State of),2024,14,14,<NA>,0.69,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2006,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2007,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2008,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2009,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2010,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2011,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2012,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2013,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2014,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2015,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2016,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2017,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2018,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2019,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2020,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2021,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2022,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2023,14,14,<NA>,0,female,1
+HPV,routine,BIH,Bosnia and Herzegovina,2024,14,14,<NA>,0.05,female,1
+HPV,routine,BWA,Botswana,2006,14,14,<NA>,0,female,1
+HPV,routine,BWA,Botswana,2007,14,14,<NA>,0,female,1
+HPV,routine,BWA,Botswana,2008,14,14,<NA>,0,female,1
+HPV,routine,BWA,Botswana,2009,14,14,<NA>,0,female,1
+HPV,routine,BWA,Botswana,2010,14,14,<NA>,0,female,1
+HPV,routine,BWA,Botswana,2011,14,14,<NA>,0,female,1
+HPV,routine,BWA,Botswana,2012,14,14,<NA>,0,female,1
+HPV,routine,BWA,Botswana,2013,14,14,<NA>,0,female,1
+HPV,routine,BWA,Botswana,2014,14,14,<NA>,0,female,1
+HPV,routine,BWA,Botswana,2015,14,14,<NA>,0,female,1
+HPV,routine,BWA,Botswana,2016,14,14,<NA>,0.17,female,1
+HPV,routine,BWA,Botswana,2017,14,14,<NA>,0.44,female,1
+HPV,routine,BWA,Botswana,2018,14,14,<NA>,0.73,female,1
+HPV,routine,BWA,Botswana,2019,14,14,<NA>,0.8,female,1
+HPV,routine,BWA,Botswana,2020,14,14,<NA>,0.78,female,1
+HPV,routine,BWA,Botswana,2021,14,14,<NA>,0.69,female,1
+HPV,routine,BWA,Botswana,2022,14,14,<NA>,0.22,female,1
+HPV,routine,BWA,Botswana,2023,14,14,<NA>,0.28,female,1
+HPV,routine,BWA,Botswana,2024,14,14,<NA>,0.16,female,1
+HPV,routine,BRA,Brazil,2006,14,14,<NA>,0,female,1
+HPV,routine,BRA,Brazil,2007,14,14,<NA>,0,female,1
+HPV,routine,BRA,Brazil,2008,14,14,<NA>,0,female,1
+HPV,routine,BRA,Brazil,2009,14,14,<NA>,0,female,1
+HPV,routine,BRA,Brazil,2010,14,14,<NA>,0,female,1
+HPV,routine,BRA,Brazil,2011,14,14,<NA>,0,female,1
+HPV,routine,BRA,Brazil,2012,14,14,<NA>,0,female,1
+HPV,routine,BRA,Brazil,2013,14,14,<NA>,0,female,1
+HPV,routine,BRA,Brazil,2014,14,14,<NA>,0,female,1
+HPV,routine,BRA,Brazil,2015,14,14,<NA>,0,female,1
+HPV,routine,BRA,Brazil,2016,14,14,<NA>,0.68,female,1
+HPV,routine,BRA,Brazil,2017,14,14,<NA>,0.77,female,1
+HPV,routine,BRA,Brazil,2018,14,14,<NA>,0.64,female,1
+HPV,routine,BRA,Brazil,2019,14,14,<NA>,0.67,female,1
+HPV,routine,BRA,Brazil,2020,14,14,<NA>,0.68,female,1
+HPV,routine,BRA,Brazil,2021,14,14,<NA>,0.65,female,1
+HPV,routine,BRA,Brazil,2022,14,14,<NA>,0.72,female,1
+HPV,routine,BRA,Brazil,2023,14,14,<NA>,0.76,female,1
+HPV,routine,BRA,Brazil,2024,14,14,<NA>,0.75,female,1
+HPV,routine,BRN,Brunei Darussalam,2006,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2007,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2008,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2009,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2010,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2011,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2012,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2013,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2014,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2015,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2016,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2017,14,14,<NA>,0,female,1
+HPV,routine,BRN,Brunei Darussalam,2018,14,14,<NA>,0.85,female,1
+HPV,routine,BRN,Brunei Darussalam,2019,14,14,<NA>,0.86,female,1
+HPV,routine,BRN,Brunei Darussalam,2020,14,14,<NA>,0.88,female,1
+HPV,routine,BRN,Brunei Darussalam,2021,14,14,<NA>,0.9,female,1
+HPV,routine,BRN,Brunei Darussalam,2022,14,14,<NA>,0.86,female,1
+HPV,routine,BRN,Brunei Darussalam,2023,14,14,<NA>,0.9,female,1
+HPV,routine,BRN,Brunei Darussalam,2024,14,14,<NA>,0.88,female,1
+HPV,routine,BGR,Bulgaria,2006,14,14,<NA>,0,female,1
+HPV,routine,BGR,Bulgaria,2007,14,14,<NA>,0,female,1
+HPV,routine,BGR,Bulgaria,2008,14,14,<NA>,0,female,1
+HPV,routine,BGR,Bulgaria,2009,14,14,<NA>,0,female,1
+HPV,routine,BGR,Bulgaria,2010,14,14,<NA>,0,female,1
+HPV,routine,BGR,Bulgaria,2011,14,14,<NA>,0,female,1
+HPV,routine,BGR,Bulgaria,2012,14,14,<NA>,0,female,1
+HPV,routine,BGR,Bulgaria,2013,14,14,<NA>,0,female,1
+HPV,routine,BGR,Bulgaria,2014,14,14,<NA>,0,female,1
+HPV,routine,BGR,Bulgaria,2015,14,14,<NA>,0,female,1
+HPV,routine,BGR,Bulgaria,2016,14,14,<NA>,0.21,female,1
+HPV,routine,BGR,Bulgaria,2017,14,14,<NA>,0.15,female,1
+HPV,routine,BGR,Bulgaria,2018,14,14,<NA>,0.09,female,1
+HPV,routine,BGR,Bulgaria,2019,14,14,<NA>,0.07,female,1
+HPV,routine,BGR,Bulgaria,2020,14,14,<NA>,0.09,female,1
+HPV,routine,BGR,Bulgaria,2021,14,14,<NA>,0.09,female,1
+HPV,routine,BGR,Bulgaria,2022,14,14,<NA>,0.08,female,1
+HPV,routine,BGR,Bulgaria,2023,14,14,<NA>,0.07,female,1
+HPV,routine,BGR,Bulgaria,2024,14,14,<NA>,0.03,female,1
+HPV,routine,CAN,Canada,2006,14,14,<NA>,0,female,1
+HPV,routine,CAN,Canada,2007,14,14,<NA>,0,female,1
+HPV,routine,CAN,Canada,2008,14,14,<NA>,0,female,1
+HPV,routine,CAN,Canada,2009,14,14,<NA>,0,female,1
+HPV,routine,CAN,Canada,2010,14,14,<NA>,0,female,1
+HPV,routine,CAN,Canada,2011,14,14,<NA>,0,female,1
+HPV,routine,CAN,Canada,2012,14,14,<NA>,0,female,1
+HPV,routine,CAN,Canada,2013,14,14,<NA>,0.73,female,1
+HPV,routine,CAN,Canada,2014,14,14,<NA>,0.74,female,1
+HPV,routine,CAN,Canada,2015,14,14,<NA>,0.75,female,1
+HPV,routine,CAN,Canada,2016,14,14,<NA>,0.79,female,1
+HPV,routine,CAN,Canada,2017,14,14,<NA>,0.83,female,1
+HPV,routine,CAN,Canada,2018,14,14,<NA>,0.83,female,1
+HPV,routine,CAN,Canada,2019,14,14,<NA>,0.83,female,1
+HPV,routine,CAN,Canada,2020,14,14,<NA>,0.87,female,1
+HPV,routine,CAN,Canada,2021,14,14,<NA>,0.87,female,1
+HPV,routine,CAN,Canada,2022,14,14,<NA>,0.86,female,1
+HPV,routine,CAN,Canada,2023,14,14,<NA>,0.86,female,1
+HPV,routine,CAN,Canada,2024,14,14,<NA>,0.86,female,1
+HPV,routine,CHL,Chile,2006,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2007,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2008,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2009,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2010,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2011,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2012,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2013,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2014,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2015,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2016,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2017,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2018,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2019,14,14,<NA>,0,female,1
+HPV,routine,CHL,Chile,2020,14,14,<NA>,0.75,female,1
+HPV,routine,CHL,Chile,2021,14,14,<NA>,0.79,female,1
+HPV,routine,CHL,Chile,2022,14,14,<NA>,0.73,female,1
+HPV,routine,CHL,Chile,2023,14,14,<NA>,0.81,female,1
+HPV,routine,CHL,Chile,2024,14,14,<NA>,0.89,female,1
+HPV,routine,COL,Colombia,2006,14,14,<NA>,0,female,1
+HPV,routine,COL,Colombia,2007,14,14,<NA>,0,female,1
+HPV,routine,COL,Colombia,2008,14,14,<NA>,0,female,1
+HPV,routine,COL,Colombia,2009,14,14,<NA>,0,female,1
+HPV,routine,COL,Colombia,2010,14,14,<NA>,0,female,1
+HPV,routine,COL,Colombia,2011,14,14,<NA>,0,female,1
+HPV,routine,COL,Colombia,2012,14,14,<NA>,0,female,1
+HPV,routine,COL,Colombia,2013,14,14,<NA>,0,female,1
+HPV,routine,COL,Colombia,2014,14,14,<NA>,0.61,female,1
+HPV,routine,COL,Colombia,2015,14,14,<NA>,0.8,female,1
+HPV,routine,COL,Colombia,2016,14,14,<NA>,0.83,female,1
+HPV,routine,COL,Colombia,2017,14,14,<NA>,0.87,female,1
+HPV,routine,COL,Colombia,2018,14,14,<NA>,0.84,female,1
+HPV,routine,COL,Colombia,2019,14,14,<NA>,0.58,female,1
+HPV,routine,COL,Colombia,2020,14,14,<NA>,0.36,female,1
+HPV,routine,COL,Colombia,2021,14,14,<NA>,0.26,female,1
+HPV,routine,COL,Colombia,2022,14,14,<NA>,0.23,female,1
+HPV,routine,COL,Colombia,2023,14,14,<NA>,0.33,female,1
+HPV,routine,COL,Colombia,2024,14,14,<NA>,0.63,female,1
+HPV,routine,COK,Cook Islands,2006,14,14,<NA>,0,female,1
+HPV,routine,COK,Cook Islands,2007,14,14,<NA>,0,female,1
+HPV,routine,COK,Cook Islands,2008,14,14,<NA>,0,female,1
+HPV,routine,COK,Cook Islands,2009,14,14,<NA>,0,female,1
+HPV,routine,COK,Cook Islands,2010,14,14,<NA>,0,female,1
+HPV,routine,COK,Cook Islands,2011,14,14,<NA>,0,female,1
+HPV,routine,COK,Cook Islands,2012,14,14,<NA>,0,female,1
+HPV,routine,COK,Cook Islands,2013,14,14,<NA>,0,female,1
+HPV,routine,COK,Cook Islands,2014,14,14,<NA>,0,female,1
+HPV,routine,COK,Cook Islands,2015,14,14,<NA>,0,female,1
+HPV,routine,COK,Cook Islands,2016,14,14,<NA>,0.74,female,1
+HPV,routine,COK,Cook Islands,2017,14,14,<NA>,0.61,female,1
+HPV,routine,COK,Cook Islands,2018,14,14,<NA>,0.48,female,1
+HPV,routine,COK,Cook Islands,2019,14,14,<NA>,0.99,female,1
+HPV,routine,COK,Cook Islands,2020,14,14,<NA>,0.83,female,1
+HPV,routine,COK,Cook Islands,2021,14,14,<NA>,0.41,female,1
+HPV,routine,COK,Cook Islands,2022,14,14,<NA>,0.69,female,1
+HPV,routine,COK,Cook Islands,2023,14,14,<NA>,0.7,female,1
+HPV,routine,COK,Cook Islands,2024,14,14,<NA>,0.73,female,1
+HPV,routine,CRI,Costa Rica,2006,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2007,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2008,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2009,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2010,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2011,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2012,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2013,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2014,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2015,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2016,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2017,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2018,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2019,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2020,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2021,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2022,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2023,14,14,<NA>,0,female,1
+HPV,routine,CRI,Costa Rica,2024,14,14,<NA>,0.84,female,1
+HPV,routine,HRV,Croatia,2006,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2007,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2008,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2009,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2010,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2011,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2012,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2013,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2014,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2015,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2016,14,14,<NA>,0,female,1
+HPV,routine,HRV,Croatia,2017,14,14,<NA>,0.03,female,1
+HPV,routine,HRV,Croatia,2018,14,14,<NA>,0.07,female,1
+HPV,routine,HRV,Croatia,2019,14,14,<NA>,0.16,female,1
+HPV,routine,HRV,Croatia,2020,14,14,<NA>,0.25,female,1
+HPV,routine,HRV,Croatia,2021,14,14,<NA>,0.2,female,1
+HPV,routine,HRV,Croatia,2022,14,14,<NA>,0.47,female,1
+HPV,routine,HRV,Croatia,2023,14,14,<NA>,0.48,female,1
+HPV,routine,HRV,Croatia,2024,14,14,<NA>,0.53,female,1
+HPV,routine,CYP,Cyprus,2006,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2007,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2008,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2009,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2010,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2011,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2012,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2013,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2014,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2015,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2016,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2017,14,14,<NA>,0,female,1
+HPV,routine,CYP,Cyprus,2018,14,14,<NA>,0.54,female,1
+HPV,routine,CYP,Cyprus,2019,14,14,<NA>,0.59,female,1
+HPV,routine,CYP,Cyprus,2020,14,14,<NA>,0.64,female,1
+HPV,routine,CYP,Cyprus,2021,14,14,<NA>,0.64,female,1
+HPV,routine,CYP,Cyprus,2022,14,14,<NA>,0.64,female,1
+HPV,routine,CYP,Cyprus,2023,14,14,<NA>,0.67,female,1
+HPV,routine,CYP,Cyprus,2024,14,14,<NA>,0.67,female,1
+HPV,routine,CZE,Czechia,2006,14,14,<NA>,0,female,1
+HPV,routine,CZE,Czechia,2007,14,14,<NA>,0,female,1
+HPV,routine,CZE,Czechia,2008,14,14,<NA>,0,female,1
+HPV,routine,CZE,Czechia,2009,14,14,<NA>,0,female,1
+HPV,routine,CZE,Czechia,2010,14,14,<NA>,0,female,1
+HPV,routine,CZE,Czechia,2011,14,14,<NA>,0,female,1
+HPV,routine,CZE,Czechia,2012,14,14,<NA>,0,female,1
+HPV,routine,CZE,Czechia,2013,14,14,<NA>,0,female,1
+HPV,routine,CZE,Czechia,2014,14,14,<NA>,0.73,female,1
+HPV,routine,CZE,Czechia,2015,14,14,<NA>,0.73,female,1
+HPV,routine,CZE,Czechia,2016,14,14,<NA>,0.69,female,1
+HPV,routine,CZE,Czechia,2017,14,14,<NA>,0.66,female,1
+HPV,routine,CZE,Czechia,2018,14,14,<NA>,0.62,female,1
+HPV,routine,CZE,Czechia,2019,14,14,<NA>,0.64,female,1
+HPV,routine,CZE,Czechia,2020,14,14,<NA>,0.64,female,1
+HPV,routine,CZE,Czechia,2021,14,14,<NA>,0.66,female,1
+HPV,routine,CZE,Czechia,2022,14,14,<NA>,0.69,female,1
+HPV,routine,CZE,Czechia,2023,14,14,<NA>,0.69,female,1
+HPV,routine,CZE,Czechia,2024,14,14,<NA>,0.69,female,1
+HPV,routine,DNK,Denmark,2006,14,14,<NA>,0,female,1
+HPV,routine,DNK,Denmark,2007,14,14,<NA>,0,female,1
+HPV,routine,DNK,Denmark,2008,14,14,<NA>,0,female,1
+HPV,routine,DNK,Denmark,2009,14,14,<NA>,0,female,1
+HPV,routine,DNK,Denmark,2010,14,14,<NA>,0.7,female,1
+HPV,routine,DNK,Denmark,2011,14,14,<NA>,0.73,female,1
+HPV,routine,DNK,Denmark,2012,14,14,<NA>,0.73,female,1
+HPV,routine,DNK,Denmark,2013,14,14,<NA>,0.77,female,1
+HPV,routine,DNK,Denmark,2014,14,14,<NA>,0.79,female,1
+HPV,routine,DNK,Denmark,2015,14,14,<NA>,0.8,female,1
+HPV,routine,DNK,Denmark,2016,14,14,<NA>,0.8,female,1
+HPV,routine,DNK,Denmark,2017,14,14,<NA>,0.76,female,1
+HPV,routine,DNK,Denmark,2018,14,14,<NA>,0.73,female,1
+HPV,routine,DNK,Denmark,2019,14,14,<NA>,0.75,female,1
+HPV,routine,DNK,Denmark,2020,14,14,<NA>,0.81,female,1
+HPV,routine,DNK,Denmark,2021,14,14,<NA>,0.82,female,1
+HPV,routine,DNK,Denmark,2022,14,14,<NA>,0.82,female,1
+HPV,routine,DNK,Denmark,2023,14,14,<NA>,0.83,female,1
+HPV,routine,DNK,Denmark,2024,14,14,<NA>,0.82,female,1
+HPV,routine,DMA,Dominica,2006,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2007,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2008,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2009,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2010,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2011,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2012,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2013,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2014,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2015,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2016,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2017,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2018,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2019,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2020,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2021,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2022,14,14,<NA>,0,female,1
+HPV,routine,DMA,Dominica,2023,14,14,<NA>,0.74,female,1
+HPV,routine,DMA,Dominica,2024,14,14,<NA>,0.75,female,1
+HPV,routine,DOM,Dominican Republic,2006,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2007,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2008,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2009,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2010,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2011,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2012,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2013,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2014,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2015,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2016,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2017,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2018,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2019,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2020,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2021,14,14,<NA>,0,female,1
+HPV,routine,DOM,Dominican Republic,2022,14,14,<NA>,0.4,female,1
+HPV,routine,DOM,Dominican Republic,2023,14,14,<NA>,0.51,female,1
+HPV,routine,DOM,Dominican Republic,2024,14,14,<NA>,0.8,female,1
+HPV,routine,ECU,Ecuador,2006,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2007,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2008,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2009,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2010,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2011,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2012,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2013,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2014,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2015,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2016,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2017,14,14,<NA>,0,female,1
+HPV,routine,ECU,Ecuador,2018,14,14,<NA>,0.81,female,1
+HPV,routine,ECU,Ecuador,2019,14,14,<NA>,0.82,female,1
+HPV,routine,ECU,Ecuador,2020,14,14,<NA>,0.78,female,1
+HPV,routine,ECU,Ecuador,2021,14,14,<NA>,0.99,female,1
+HPV,routine,ECU,Ecuador,2022,14,14,<NA>,0.95,female,1
+HPV,routine,ECU,Ecuador,2023,14,14,<NA>,0.86,female,1
+HPV,routine,ECU,Ecuador,2024,14,14,<NA>,0.72,female,1
+HPV,routine,ERI,Eritrea,2006,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2007,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2008,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2009,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2010,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2011,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2012,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2013,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2014,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2015,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2016,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2017,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2018,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2019,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2020,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2021,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2022,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2023,14,14,<NA>,0,female,1
+HPV,routine,ERI,Eritrea,2024,14,14,<NA>,0.99,female,1
+HPV,routine,EST,Estonia,2006,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2007,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2008,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2009,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2010,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2011,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2012,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2013,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2014,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2015,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2016,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2017,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2018,14,14,<NA>,0,female,1
+HPV,routine,EST,Estonia,2019,14,14,<NA>,0.48,female,1
+HPV,routine,EST,Estonia,2020,14,14,<NA>,0.59,female,1
+HPV,routine,EST,Estonia,2021,14,14,<NA>,0.6,female,1
+HPV,routine,EST,Estonia,2022,14,14,<NA>,0.59,female,1
+HPV,routine,EST,Estonia,2023,14,14,<NA>,0.42,female,1
+HPV,routine,EST,Estonia,2024,14,14,<NA>,0.63,female,1
+HPV,routine,SWZ,Eswatini,2006,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2007,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2008,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2009,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2010,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2011,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2012,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2013,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2014,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2015,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2016,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2017,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2018,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2019,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2020,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2021,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2022,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2023,14,14,<NA>,0,female,1
+HPV,routine,SWZ,Eswatini,2024,14,14,<NA>,0.42,female,1
+HPV,routine,ETH,Ethiopia,2006,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2007,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2008,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2009,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2010,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2011,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2012,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2013,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2014,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2015,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2016,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2017,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2018,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2019,14,14,<NA>,0,female,1
+HPV,routine,ETH,Ethiopia,2020,14,14,<NA>,0.24,female,1
+HPV,routine,ETH,Ethiopia,2021,14,14,<NA>,0.22,female,1
+HPV,routine,ETH,Ethiopia,2022,14,14,<NA>,0.25,female,1
+HPV,routine,ETH,Ethiopia,2023,14,14,<NA>,0.29,female,1
+HPV,routine,ETH,Ethiopia,2024,14,14,<NA>,0.29,female,1
+HPV,routine,FJI,Fiji,2006,14,14,<NA>,0,female,1
+HPV,routine,FJI,Fiji,2007,14,14,<NA>,0,female,1
+HPV,routine,FJI,Fiji,2008,14,14,<NA>,0,female,1
+HPV,routine,FJI,Fiji,2009,14,14,<NA>,0,female,1
+HPV,routine,FJI,Fiji,2010,14,14,<NA>,0,female,1
+HPV,routine,FJI,Fiji,2011,14,14,<NA>,0,female,1
+HPV,routine,FJI,Fiji,2012,14,14,<NA>,0,female,1
+HPV,routine,FJI,Fiji,2013,14,14,<NA>,0,female,1
+HPV,routine,FJI,Fiji,2014,14,14,<NA>,0,female,1
+HPV,routine,FJI,Fiji,2015,14,14,<NA>,0.55,female,1
+HPV,routine,FJI,Fiji,2016,14,14,<NA>,0.83,female,1
+HPV,routine,FJI,Fiji,2017,14,14,<NA>,0.62,female,1
+HPV,routine,FJI,Fiji,2018,14,14,<NA>,0.48,female,1
+HPV,routine,FJI,Fiji,2019,14,14,<NA>,0.52,female,1
+HPV,routine,FJI,Fiji,2020,14,14,<NA>,0.46,female,1
+HPV,routine,FJI,Fiji,2021,14,14,<NA>,0.53,female,1
+HPV,routine,FJI,Fiji,2022,14,14,<NA>,0.53,female,1
+HPV,routine,FJI,Fiji,2023,14,14,<NA>,0.53,female,1
+HPV,routine,FJI,Fiji,2024,14,14,<NA>,0.53,female,1
+HPV,routine,FIN,Finland,2006,14,14,<NA>,0,female,1
+HPV,routine,FIN,Finland,2007,14,14,<NA>,0,female,1
+HPV,routine,FIN,Finland,2008,14,14,<NA>,0,female,1
+HPV,routine,FIN,Finland,2009,14,14,<NA>,0,female,1
+HPV,routine,FIN,Finland,2010,14,14,<NA>,0,female,1
+HPV,routine,FIN,Finland,2011,14,14,<NA>,0,female,1
+HPV,routine,FIN,Finland,2012,14,14,<NA>,0,female,1
+HPV,routine,FIN,Finland,2013,14,14,<NA>,0,female,1
+HPV,routine,FIN,Finland,2014,14,14,<NA>,0.61,female,1
+HPV,routine,FIN,Finland,2015,14,14,<NA>,0.62,female,1
+HPV,routine,FIN,Finland,2016,14,14,<NA>,0.61,female,1
+HPV,routine,FIN,Finland,2017,14,14,<NA>,0.69,female,1
+HPV,routine,FIN,Finland,2018,14,14,<NA>,0.67,female,1
+HPV,routine,FIN,Finland,2019,14,14,<NA>,0.67,female,1
+HPV,routine,FIN,Finland,2020,14,14,<NA>,0.72,female,1
+HPV,routine,FIN,Finland,2021,14,14,<NA>,0.76,female,1
+HPV,routine,FIN,Finland,2022,14,14,<NA>,0.78,female,1
+HPV,routine,FIN,Finland,2023,14,14,<NA>,0.76,female,1
+HPV,routine,FIN,Finland,2024,14,14,<NA>,0.73,female,1
+HPV,routine,FRA,France,2006,14,14,<NA>,0,female,1
+HPV,routine,FRA,France,2007,14,14,<NA>,0,female,1
+HPV,routine,FRA,France,2008,14,14,<NA>,0,female,1
+HPV,routine,FRA,France,2009,14,14,<NA>,0,female,1
+HPV,routine,FRA,France,2010,14,14,<NA>,0.25,female,1
+HPV,routine,FRA,France,2011,14,14,<NA>,0.22,female,1
+HPV,routine,FRA,France,2012,14,14,<NA>,0.17,female,1
+HPV,routine,FRA,France,2013,14,14,<NA>,0.16,female,1
+HPV,routine,FRA,France,2014,14,14,<NA>,0.13,female,1
+HPV,routine,FRA,France,2015,14,14,<NA>,0.2,female,1
+HPV,routine,FRA,France,2016,14,14,<NA>,0.21,female,1
+HPV,routine,FRA,France,2017,14,14,<NA>,0.24,female,1
+HPV,routine,FRA,France,2018,14,14,<NA>,0.24,female,1
+HPV,routine,FRA,France,2019,14,14,<NA>,0.33,female,1
+HPV,routine,FRA,France,2020,14,14,<NA>,0.37,female,1
+HPV,routine,FRA,France,2021,14,14,<NA>,0.42,female,1
+HPV,routine,FRA,France,2022,14,14,<NA>,0.45,female,1
+HPV,routine,FRA,France,2023,14,14,<NA>,0.45,female,1
+HPV,routine,FRA,France,2024,14,14,<NA>,0.45,female,1
+HPV,routine,GMB,Gambia,2006,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2007,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2008,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2009,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2010,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2011,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2012,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2013,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2014,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2015,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2016,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2017,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2018,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2019,14,14,<NA>,0,female,1
+HPV,routine,GMB,Gambia,2020,14,14,<NA>,0.11,female,1
+HPV,routine,GMB,Gambia,2021,14,14,<NA>,0.33,female,1
+HPV,routine,GMB,Gambia,2022,14,14,<NA>,0.3,female,1
+HPV,routine,GMB,Gambia,2023,14,14,<NA>,0.64,female,1
+HPV,routine,GMB,Gambia,2024,14,14,<NA>,0.74,female,1
+HPV,routine,GEO,Georgia,2006,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2007,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2008,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2009,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2010,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2011,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2012,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2013,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2014,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2015,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2016,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2017,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2018,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2019,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2020,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2021,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2022,14,14,<NA>,0,female,1
+HPV,routine,GEO,Georgia,2023,14,14,<NA>,0.37,female,1
+HPV,routine,GEO,Georgia,2024,14,14,<NA>,0.37,female,1
+HPV,routine,DEU,Germany,2006,14,14,<NA>,0,female,1
+HPV,routine,DEU,Germany,2007,14,14,<NA>,0,female,1
+HPV,routine,DEU,Germany,2008,14,14,<NA>,0,female,1
+HPV,routine,DEU,Germany,2009,14,14,<NA>,0,female,1
+HPV,routine,DEU,Germany,2010,14,14,<NA>,0.27,female,1
+HPV,routine,DEU,Germany,2011,14,14,<NA>,0.27,female,1
+HPV,routine,DEU,Germany,2012,14,14,<NA>,0.27,female,1
+HPV,routine,DEU,Germany,2013,14,14,<NA>,0.29,female,1
+HPV,routine,DEU,Germany,2014,14,14,<NA>,0.31,female,1
+HPV,routine,DEU,Germany,2015,14,14,<NA>,0.33,female,1
+HPV,routine,DEU,Germany,2016,14,14,<NA>,0.36,female,1
+HPV,routine,DEU,Germany,2017,14,14,<NA>,0.4,female,1
+HPV,routine,DEU,Germany,2018,14,14,<NA>,0.43,female,1
+HPV,routine,DEU,Germany,2019,14,14,<NA>,0.47,female,1
+HPV,routine,DEU,Germany,2020,14,14,<NA>,0.51,female,1
+HPV,routine,DEU,Germany,2021,14,14,<NA>,0.53,female,1
+HPV,routine,DEU,Germany,2022,14,14,<NA>,0.54,female,1
+HPV,routine,DEU,Germany,2023,14,14,<NA>,0.55,female,1
+HPV,routine,DEU,Germany,2024,14,14,<NA>,0.55,female,1
+HPV,routine,GRC,Greece,2006,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2007,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2008,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2009,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2010,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2011,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2012,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2013,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2014,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2015,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2016,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2017,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2018,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2019,14,14,<NA>,0.438,female,1
+HPV,routine,GRC,Greece,2020,14,14,<NA>,0.438,female,1
+HPV,routine,GRC,Greece,2021,14,14,<NA>,0.438,female,1
+HPV,routine,GRC,Greece,2022,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2023,14,14,<NA>,0,female,1
+HPV,routine,GRC,Greece,2024,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2006,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2007,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2008,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2009,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2010,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2011,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2012,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2013,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2014,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2015,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2016,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2017,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2018,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2019,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2020,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2021,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2022,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2023,14,14,<NA>,0,female,1
+HPV,routine,GRD,Grenada,2024,14,14,<NA>,0.42,female,1
+HPV,routine,GTM,Guatemala,2006,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2007,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2008,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2009,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2010,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2011,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2012,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2013,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2014,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2015,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2016,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2017,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2018,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2019,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2020,14,14,<NA>,0,female,1
+HPV,routine,GTM,Guatemala,2021,14,14,<NA>,0.29,female,1
+HPV,routine,GTM,Guatemala,2022,14,14,<NA>,0.7,female,1
+HPV,routine,GTM,Guatemala,2023,14,14,<NA>,0.74,female,1
+HPV,routine,GTM,Guatemala,2024,14,14,<NA>,0.91,female,1
+HPV,routine,GUY,Guyana,2006,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2007,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2008,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2009,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2010,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2011,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2012,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2013,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2014,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2015,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2016,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2017,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2018,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2019,14,14,<NA>,0,female,1
+HPV,routine,GUY,Guyana,2020,14,14,<NA>,0.13,female,1
+HPV,routine,GUY,Guyana,2021,14,14,<NA>,0.18,female,1
+HPV,routine,GUY,Guyana,2022,14,14,<NA>,0.22,female,1
+HPV,routine,GUY,Guyana,2023,14,14,<NA>,0.36,female,1
+HPV,routine,GUY,Guyana,2024,14,14,<NA>,0.48,female,1
+HPV,routine,HND,Honduras,2006,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2007,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2008,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2009,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2010,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2011,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2012,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2013,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2014,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2015,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2016,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2017,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2018,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2019,14,14,<NA>,0,female,1
+HPV,routine,HND,Honduras,2020,14,14,<NA>,0.52,female,1
+HPV,routine,HND,Honduras,2021,14,14,<NA>,0.66,female,1
+HPV,routine,HND,Honduras,2022,14,14,<NA>,0.57,female,1
+HPV,routine,HND,Honduras,2023,14,14,<NA>,0.63,female,1
+HPV,routine,HND,Honduras,2024,14,14,<NA>,0.7,female,1
+HPV,routine,HUN,Hungary,2006,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2007,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2008,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2009,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2010,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2011,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2012,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2013,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2014,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2015,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2016,14,14,<NA>,0,female,1
+HPV,routine,HUN,Hungary,2017,14,14,<NA>,0.74,female,1
+HPV,routine,HUN,Hungary,2018,14,14,<NA>,0.72,female,1
+HPV,routine,HUN,Hungary,2019,14,14,<NA>,0.73,female,1
+HPV,routine,HUN,Hungary,2020,14,14,<NA>,0.71,female,1
+HPV,routine,HUN,Hungary,2021,14,14,<NA>,0.75,female,1
+HPV,routine,HUN,Hungary,2022,14,14,<NA>,0.83,female,1
+HPV,routine,HUN,Hungary,2023,14,14,<NA>,0.8,female,1
+HPV,routine,HUN,Hungary,2024,14,14,<NA>,0.75,female,1
+HPV,routine,ISL,Iceland,2006,14,14,<NA>,0,female,1
+HPV,routine,ISL,Iceland,2007,14,14,<NA>,0,female,1
+HPV,routine,ISL,Iceland,2008,14,14,<NA>,0,female,1
+HPV,routine,ISL,Iceland,2009,14,14,<NA>,0,female,1
+HPV,routine,ISL,Iceland,2010,14,14,<NA>,0,female,1
+HPV,routine,ISL,Iceland,2011,14,14,<NA>,0,female,1
+HPV,routine,ISL,Iceland,2012,14,14,<NA>,0,female,1
+HPV,routine,ISL,Iceland,2013,14,14,<NA>,0.91,female,1
+HPV,routine,ISL,Iceland,2014,14,14,<NA>,0.92,female,1
+HPV,routine,ISL,Iceland,2015,14,14,<NA>,0.87,female,1
+HPV,routine,ISL,Iceland,2016,14,14,<NA>,0.87,female,1
+HPV,routine,ISL,Iceland,2017,14,14,<NA>,0.88,female,1
+HPV,routine,ISL,Iceland,2018,14,14,<NA>,0.89,female,1
+HPV,routine,ISL,Iceland,2019,14,14,<NA>,0.86,female,1
+HPV,routine,ISL,Iceland,2020,14,14,<NA>,0.87,female,1
+HPV,routine,ISL,Iceland,2021,14,14,<NA>,0.91,female,1
+HPV,routine,ISL,Iceland,2022,14,14,<NA>,0.92,female,1
+HPV,routine,ISL,Iceland,2023,14,14,<NA>,0.93,female,1
+HPV,routine,ISL,Iceland,2024,14,14,<NA>,0.93,female,1
+HPV,routine,IDN,Indonesia,2006,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2007,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2008,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2009,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2010,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2011,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2012,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2013,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2014,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2015,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2016,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2017,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2018,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2019,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2020,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2021,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2022,14,14,<NA>,0,female,1
+HPV,routine,IDN,Indonesia,2023,14,14,<NA>,0.01,female,1
+HPV,routine,IDN,Indonesia,2024,14,14,<NA>,0.04,female,1
+HPV,routine,IRL,Ireland,2006,14,14,<NA>,0,female,1
+HPV,routine,IRL,Ireland,2007,14,14,<NA>,0,female,1
+HPV,routine,IRL,Ireland,2008,14,14,<NA>,0,female,1
+HPV,routine,IRL,Ireland,2009,14,14,<NA>,0,female,1
+HPV,routine,IRL,Ireland,2010,14,14,<NA>,0,female,1
+HPV,routine,IRL,Ireland,2011,14,14,<NA>,0,female,1
+HPV,routine,IRL,Ireland,2012,14,14,<NA>,0,female,1
+HPV,routine,IRL,Ireland,2013,14,14,<NA>,0,female,1
+HPV,routine,IRL,Ireland,2014,14,14,<NA>,0.68,female,1
+HPV,routine,IRL,Ireland,2015,14,14,<NA>,0.87,female,1
+HPV,routine,IRL,Ireland,2016,14,14,<NA>,0.87,female,1
+HPV,routine,IRL,Ireland,2017,14,14,<NA>,0.88,female,1
+HPV,routine,IRL,Ireland,2018,14,14,<NA>,0.75,female,1
+HPV,routine,IRL,Ireland,2019,14,14,<NA>,0.58,female,1
+HPV,routine,IRL,Ireland,2020,14,14,<NA>,0.66,female,1
+HPV,routine,IRL,Ireland,2021,14,14,<NA>,0.78,female,1
+HPV,routine,IRL,Ireland,2022,14,14,<NA>,0.82,female,1
+HPV,routine,IRL,Ireland,2023,14,14,<NA>,0.7,female,1
+HPV,routine,IRL,Ireland,2024,14,14,<NA>,0.74,female,1
+HPV,routine,ISR,Israel,2006,14,14,<NA>,0,female,1
+HPV,routine,ISR,Israel,2007,14,14,<NA>,0,female,1
+HPV,routine,ISR,Israel,2008,14,14,<NA>,0,female,1
+HPV,routine,ISR,Israel,2009,14,14,<NA>,0,female,1
+HPV,routine,ISR,Israel,2010,14,14,<NA>,0,female,1
+HPV,routine,ISR,Israel,2011,14,14,<NA>,0,female,1
+HPV,routine,ISR,Israel,2012,14,14,<NA>,0,female,1
+HPV,routine,ISR,Israel,2013,14,14,<NA>,0,female,1
+HPV,routine,ISR,Israel,2014,14,14,<NA>,0,female,1
+HPV,routine,ISR,Israel,2015,14,14,<NA>,0,female,1
+HPV,routine,ISR,Israel,2016,14,14,<NA>,0.51,female,1
+HPV,routine,ISR,Israel,2017,14,14,<NA>,0.52,female,1
+HPV,routine,ISR,Israel,2018,14,14,<NA>,0.57,female,1
+HPV,routine,ISR,Israel,2019,14,14,<NA>,0.5,female,1
+HPV,routine,ISR,Israel,2020,14,14,<NA>,0.52,female,1
+HPV,routine,ISR,Israel,2021,14,14,<NA>,0.54,female,1
+HPV,routine,ISR,Israel,2022,14,14,<NA>,0.58,female,1
+HPV,routine,ISR,Israel,2023,14,14,<NA>,0.54,female,1
+HPV,routine,ISR,Israel,2024,14,14,<NA>,0.55,female,1
+HPV,routine,ITA,Italy,2006,14,14,<NA>,0,female,1
+HPV,routine,ITA,Italy,2007,14,14,<NA>,0,female,1
+HPV,routine,ITA,Italy,2008,14,14,<NA>,0,female,1
+HPV,routine,ITA,Italy,2009,14,14,<NA>,0,female,1
+HPV,routine,ITA,Italy,2010,14,14,<NA>,0.1,female,1
+HPV,routine,ITA,Italy,2011,14,14,<NA>,0.38,female,1
+HPV,routine,ITA,Italy,2012,14,14,<NA>,0.67,female,1
+HPV,routine,ITA,Italy,2013,14,14,<NA>,0.67,female,1
+HPV,routine,ITA,Italy,2014,14,14,<NA>,0.68,female,1
+HPV,routine,ITA,Italy,2015,14,14,<NA>,0.71,female,1
+HPV,routine,ITA,Italy,2016,14,14,<NA>,0.68,female,1
+HPV,routine,ITA,Italy,2017,14,14,<NA>,0.66,female,1
+HPV,routine,ITA,Italy,2018,14,14,<NA>,0.68,female,1
+HPV,routine,ITA,Italy,2019,14,14,<NA>,0.62,female,1
+HPV,routine,ITA,Italy,2020,14,14,<NA>,0.6,female,1
+HPV,routine,ITA,Italy,2021,14,14,<NA>,0.68,female,1
+HPV,routine,ITA,Italy,2022,14,14,<NA>,0.68,female,1
+HPV,routine,ITA,Italy,2023,14,14,<NA>,0.64,female,1
+HPV,routine,ITA,Italy,2024,14,14,<NA>,0.55,female,1
+HPV,routine,JAM,Jamaica,2006,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2007,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2008,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2009,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2010,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2011,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2012,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2013,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2014,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2015,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2016,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2017,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2018,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2019,14,14,<NA>,0,female,1
+HPV,routine,JAM,Jamaica,2020,14,14,<NA>,0.05,female,1
+HPV,routine,JAM,Jamaica,2021,14,14,<NA>,0.16,female,1
+HPV,routine,JAM,Jamaica,2022,14,14,<NA>,0.16,female,1
+HPV,routine,JAM,Jamaica,2023,14,14,<NA>,0.03,female,1
+HPV,routine,JAM,Jamaica,2024,14,14,<NA>,0.02,female,1
+HPV,routine,JPN,Japan,2006,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2007,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2008,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2009,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2010,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2011,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2012,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2013,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2014,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2015,14,14,<NA>,0.14,female,1
+HPV,routine,JPN,Japan,2016,14,14,<NA>,0.01,female,1
+HPV,routine,JPN,Japan,2017,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2018,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2019,14,14,<NA>,0,female,1
+HPV,routine,JPN,Japan,2020,14,14,<NA>,0.01,female,1
+HPV,routine,JPN,Japan,2021,14,14,<NA>,0.01,female,1
+HPV,routine,JPN,Japan,2022,14,14,<NA>,0.03,female,1
+HPV,routine,JPN,Japan,2023,14,14,<NA>,0.13,female,1
+HPV,routine,JPN,Japan,2024,14,14,<NA>,0.22,female,1
+HPV,routine,KAZ,Kazakhstan,2006,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2007,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2008,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2009,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2010,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2011,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2012,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2013,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2014,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2015,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2016,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2017,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2018,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2019,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2020,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2021,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2022,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2023,14,14,<NA>,0,female,1
+HPV,routine,KAZ,Kazakhstan,2024,14,14,<NA>,0.18,female,1
+HPV,routine,KEN,Kenya,2006,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2007,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2008,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2009,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2010,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2011,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2012,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2013,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2014,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2015,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2016,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2017,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2018,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2019,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2020,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2021,14,14,<NA>,0,female,1
+HPV,routine,KEN,Kenya,2022,14,14,<NA>,0.17,female,1
+HPV,routine,KEN,Kenya,2023,14,14,<NA>,0.17,female,1
+HPV,routine,KEN,Kenya,2024,14,14,<NA>,0.17,female,1
+HPV,routine,KIR,Kiribati,2006,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2007,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2008,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2009,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2010,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2011,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2012,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2013,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2014,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2015,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2016,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2017,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2018,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2019,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2020,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2021,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2022,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2023,14,14,<NA>,0,female,1
+HPV,routine,KIR,Kiribati,2024,14,14,<NA>,0.55,female,1
+HPV,routine,KGZ,Kyrgyzstan,2006,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2007,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2008,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2009,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2010,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2011,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2012,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2013,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2014,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2015,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2016,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2017,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2018,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2019,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2020,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2021,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2022,14,14,<NA>,0,female,1
+HPV,routine,KGZ,Kyrgyzstan,2023,14,14,<NA>,0.48,female,1
+HPV,routine,KGZ,Kyrgyzstan,2024,14,14,<NA>,0.48,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2006,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2007,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2008,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2009,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2010,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2011,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2012,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2013,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2014,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2015,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2016,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2017,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2018,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2019,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2020,14,14,<NA>,0,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2021,14,14,<NA>,0.41,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2022,14,14,<NA>,0.54,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2023,14,14,<NA>,0.68,female,1
+HPV,routine,LAO,Lao People's Democratic Republic,2024,14,14,<NA>,0.63,female,1
+HPV,routine,LVA,Latvia,2006,14,14,<NA>,0,female,1
+HPV,routine,LVA,Latvia,2007,14,14,<NA>,0,female,1
+HPV,routine,LVA,Latvia,2008,14,14,<NA>,0,female,1
+HPV,routine,LVA,Latvia,2009,14,14,<NA>,0,female,1
+HPV,routine,LVA,Latvia,2010,14,14,<NA>,0,female,1
+HPV,routine,LVA,Latvia,2011,14,14,<NA>,0,female,1
+HPV,routine,LVA,Latvia,2012,14,14,<NA>,0,female,1
+HPV,routine,LVA,Latvia,2013,14,14,<NA>,0,female,1
+HPV,routine,LVA,Latvia,2014,14,14,<NA>,0.64,female,1
+HPV,routine,LVA,Latvia,2015,14,14,<NA>,0.54,female,1
+HPV,routine,LVA,Latvia,2016,14,14,<NA>,0.58,female,1
+HPV,routine,LVA,Latvia,2017,14,14,<NA>,0.49,female,1
+HPV,routine,LVA,Latvia,2018,14,14,<NA>,0.25,female,1
+HPV,routine,LVA,Latvia,2019,14,14,<NA>,0.34,female,1
+HPV,routine,LVA,Latvia,2020,14,14,<NA>,0.34,female,1
+HPV,routine,LVA,Latvia,2021,14,14,<NA>,0.37,female,1
+HPV,routine,LVA,Latvia,2022,14,14,<NA>,0.43,female,1
+HPV,routine,LVA,Latvia,2023,14,14,<NA>,0.44,female,1
+HPV,routine,LVA,Latvia,2024,14,14,<NA>,0.54,female,1
+HPV,routine,LSO,Lesotho,2006,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2007,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2008,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2009,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2010,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2011,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2012,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2013,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2014,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2015,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2016,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2017,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2018,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2019,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2020,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2021,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2022,14,14,<NA>,0,female,1
+HPV,routine,LSO,Lesotho,2023,14,14,<NA>,0.65,female,1
+HPV,routine,LSO,Lesotho,2024,14,14,<NA>,0.69,female,1
+HPV,routine,LTU,Lithuania,2006,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2007,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2008,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2009,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2010,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2011,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2012,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2013,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2014,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2015,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2016,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2017,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2018,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2019,14,14,<NA>,0,female,1
+HPV,routine,LTU,Lithuania,2020,14,14,<NA>,0.33,female,1
+HPV,routine,LTU,Lithuania,2021,14,14,<NA>,0.65,female,1
+HPV,routine,LTU,Lithuania,2022,14,14,<NA>,0.69,female,1
+HPV,routine,LTU,Lithuania,2023,14,14,<NA>,0.72,female,1
+HPV,routine,LTU,Lithuania,2024,14,14,<NA>,0.74,female,1
+HPV,routine,LUX,Luxembourg,2006,14,14,<NA>,0,female,1
+HPV,routine,LUX,Luxembourg,2007,14,14,<NA>,0,female,1
+HPV,routine,LUX,Luxembourg,2008,14,14,<NA>,0,female,1
+HPV,routine,LUX,Luxembourg,2009,14,14,<NA>,0,female,1
+HPV,routine,LUX,Luxembourg,2010,14,14,<NA>,0.43,female,1
+HPV,routine,LUX,Luxembourg,2011,14,14,<NA>,0.53,female,1
+HPV,routine,LUX,Luxembourg,2012,14,14,<NA>,0.41,female,1
+HPV,routine,LUX,Luxembourg,2013,14,14,<NA>,0.42,female,1
+HPV,routine,LUX,Luxembourg,2014,14,14,<NA>,0.47,female,1
+HPV,routine,LUX,Luxembourg,2015,14,14,<NA>,0.45,female,1
+HPV,routine,LUX,Luxembourg,2016,14,14,<NA>,0.43,female,1
+HPV,routine,LUX,Luxembourg,2017,14,14,<NA>,0.49,female,1
+HPV,routine,LUX,Luxembourg,2018,14,14,<NA>,0.55,female,1
+HPV,routine,LUX,Luxembourg,2019,14,14,<NA>,0.61,female,1
+HPV,routine,LUX,Luxembourg,2020,14,14,<NA>,0.68,female,1
+HPV,routine,LUX,Luxembourg,2021,14,14,<NA>,0.74,female,1
+HPV,routine,LUX,Luxembourg,2022,14,14,<NA>,0.8,female,1
+HPV,routine,LUX,Luxembourg,2023,14,14,<NA>,0.81,female,1
+HPV,routine,LUX,Luxembourg,2024,14,14,<NA>,0.82,female,1
+HPV,routine,MYS,Malaysia,2006,14,14,<NA>,0,female,1
+HPV,routine,MYS,Malaysia,2007,14,14,<NA>,0,female,1
+HPV,routine,MYS,Malaysia,2008,14,14,<NA>,0,female,1
+HPV,routine,MYS,Malaysia,2009,14,14,<NA>,0,female,1
+HPV,routine,MYS,Malaysia,2010,14,14,<NA>,0,female,1
+HPV,routine,MYS,Malaysia,2011,14,14,<NA>,0,female,1
+HPV,routine,MYS,Malaysia,2012,14,14,<NA>,0,female,1
+HPV,routine,MYS,Malaysia,2013,14,14,<NA>,0.82,female,1
+HPV,routine,MYS,Malaysia,2014,14,14,<NA>,0.85,female,1
+HPV,routine,MYS,Malaysia,2015,14,14,<NA>,0.89,female,1
+HPV,routine,MYS,Malaysia,2016,14,14,<NA>,0.82,female,1
+HPV,routine,MYS,Malaysia,2017,14,14,<NA>,0.8,female,1
+HPV,routine,MYS,Malaysia,2018,14,14,<NA>,0.77,female,1
+HPV,routine,MYS,Malaysia,2019,14,14,<NA>,0.87,female,1
+HPV,routine,MYS,Malaysia,2020,14,14,<NA>,0.75,female,1
+HPV,routine,MYS,Malaysia,2021,14,14,<NA>,0.78,female,1
+HPV,routine,MYS,Malaysia,2022,14,14,<NA>,0.76,female,1
+HPV,routine,MYS,Malaysia,2023,14,14,<NA>,0.76,female,1
+HPV,routine,MYS,Malaysia,2024,14,14,<NA>,0.77,female,1
+HPV,routine,MDV,Maldives,2006,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2007,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2008,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2009,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2010,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2011,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2012,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2013,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2014,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2015,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2016,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2017,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2018,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2019,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2020,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2021,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2022,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2023,14,14,<NA>,0,female,1
+HPV,routine,MDV,Maldives,2024,14,14,<NA>,0.66,female,1
+HPV,routine,MLT,Malta,2006,14,14,<NA>,0,female,1
+HPV,routine,MLT,Malta,2007,14,14,<NA>,0,female,1
+HPV,routine,MLT,Malta,2008,14,14,<NA>,0,female,1
+HPV,routine,MLT,Malta,2009,14,14,<NA>,0,female,1
+HPV,routine,MLT,Malta,2010,14,14,<NA>,0,female,1
+HPV,routine,MLT,Malta,2011,14,14,<NA>,0,female,1
+HPV,routine,MLT,Malta,2012,14,14,<NA>,0,female,1
+HPV,routine,MLT,Malta,2013,14,14,<NA>,0,female,1
+HPV,routine,MLT,Malta,2014,14,14,<NA>,0,female,1
+HPV,routine,MLT,Malta,2015,14,14,<NA>,0.85,female,1
+HPV,routine,MLT,Malta,2016,14,14,<NA>,0.77,female,1
+HPV,routine,MLT,Malta,2017,14,14,<NA>,0.76,female,1
+HPV,routine,MLT,Malta,2018,14,14,<NA>,0.86,female,1
+HPV,routine,MLT,Malta,2019,14,14,<NA>,0.78,female,1
+HPV,routine,MLT,Malta,2020,14,14,<NA>,0.83,female,1
+HPV,routine,MLT,Malta,2021,14,14,<NA>,0.78,female,1
+HPV,routine,MLT,Malta,2022,14,14,<NA>,0.77,female,1
+HPV,routine,MLT,Malta,2023,14,14,<NA>,0.8,female,1
+HPV,routine,MLT,Malta,2024,14,14,<NA>,0.8,female,1
+HPV,routine,MHL,Marshall Islands,2006,14,14,<NA>,0,female,1
+HPV,routine,MHL,Marshall Islands,2007,14,14,<NA>,0,female,1
+HPV,routine,MHL,Marshall Islands,2008,14,14,<NA>,0,female,1
+HPV,routine,MHL,Marshall Islands,2009,14,14,<NA>,0,female,1
+HPV,routine,MHL,Marshall Islands,2010,14,14,<NA>,0,female,1
+HPV,routine,MHL,Marshall Islands,2011,14,14,<NA>,0,female,1
+HPV,routine,MHL,Marshall Islands,2012,14,14,<NA>,0,female,1
+HPV,routine,MHL,Marshall Islands,2013,14,14,<NA>,0.14,female,1
+HPV,routine,MHL,Marshall Islands,2014,14,14,<NA>,0.14,female,1
+HPV,routine,MHL,Marshall Islands,2015,14,14,<NA>,0.13,female,1
+HPV,routine,MHL,Marshall Islands,2016,14,14,<NA>,0.16,female,1
+HPV,routine,MHL,Marshall Islands,2017,14,14,<NA>,0.22,female,1
+HPV,routine,MHL,Marshall Islands,2018,14,14,<NA>,0.31,female,1
+HPV,routine,MHL,Marshall Islands,2019,14,14,<NA>,0.4,female,1
+HPV,routine,MHL,Marshall Islands,2020,14,14,<NA>,0.45,female,1
+HPV,routine,MHL,Marshall Islands,2021,14,14,<NA>,0.48,female,1
+HPV,routine,MHL,Marshall Islands,2022,14,14,<NA>,0.52,female,1
+HPV,routine,MHL,Marshall Islands,2023,14,14,<NA>,0.54,female,1
+HPV,routine,MHL,Marshall Islands,2024,14,14,<NA>,0.54,female,1
+HPV,routine,MRT,Mauritania,2006,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2007,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2008,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2009,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2010,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2011,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2012,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2013,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2014,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2015,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2016,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2017,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2018,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2019,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2020,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2021,14,14,<NA>,0,female,1
+HPV,routine,MRT,Mauritania,2022,14,14,<NA>,0.19,female,1
+HPV,routine,MRT,Mauritania,2023,14,14,<NA>,0.18,female,1
+HPV,routine,MRT,Mauritania,2024,14,14,<NA>,0.26,female,1
+HPV,routine,MUS,Mauritius,2006,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2007,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2008,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2009,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2010,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2011,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2012,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2013,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2014,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2015,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2016,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2017,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2018,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2019,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2020,14,14,<NA>,0,female,1
+HPV,routine,MUS,Mauritius,2021,14,14,<NA>,0.58,female,1
+HPV,routine,MUS,Mauritius,2022,14,14,<NA>,0.59,female,1
+HPV,routine,MUS,Mauritius,2023,14,14,<NA>,0.86,female,1
+HPV,routine,MUS,Mauritius,2024,14,14,<NA>,0.78,female,1
+HPV,routine,MEX,Mexico,2006,14,14,<NA>,0,female,1
+HPV,routine,MEX,Mexico,2007,14,14,<NA>,0,female,1
+HPV,routine,MEX,Mexico,2008,14,14,<NA>,0,female,1
+HPV,routine,MEX,Mexico,2009,14,14,<NA>,0,female,1
+HPV,routine,MEX,Mexico,2010,14,14,<NA>,0,female,1
+HPV,routine,MEX,Mexico,2011,14,14,<NA>,0,female,1
+HPV,routine,MEX,Mexico,2012,14,14,<NA>,0,female,1
+HPV,routine,MEX,Mexico,2013,14,14,<NA>,0,female,1
+HPV,routine,MEX,Mexico,2014,14,14,<NA>,0.14,female,1
+HPV,routine,MEX,Mexico,2015,14,14,<NA>,0.11,female,1
+HPV,routine,MEX,Mexico,2016,14,14,<NA>,0.12,female,1
+HPV,routine,MEX,Mexico,2017,14,14,<NA>,0.95,female,1
+HPV,routine,MEX,Mexico,2018,14,14,<NA>,0.92,female,1
+HPV,routine,MEX,Mexico,2019,14,14,<NA>,0.99,female,1
+HPV,routine,MEX,Mexico,2020,14,14,<NA>,0.95,female,1
+HPV,routine,MEX,Mexico,2021,14,14,<NA>,0.99,female,1
+HPV,routine,MEX,Mexico,2022,14,14,<NA>,0.99,female,1
+HPV,routine,MEX,Mexico,2023,14,14,<NA>,0.97,female,1
+HPV,routine,MEX,Mexico,2024,14,14,<NA>,0.8,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2006,14,14,<NA>,0,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2007,14,14,<NA>,0,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2008,14,14,<NA>,0,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2009,14,14,<NA>,0,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2010,14,14,<NA>,0,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2011,14,14,<NA>,0,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2012,14,14,<NA>,0,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2013,14,14,<NA>,0.09,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2014,14,14,<NA>,0.1,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2015,14,14,<NA>,0.1,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2016,14,14,<NA>,0.13,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2017,14,14,<NA>,0.16,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2018,14,14,<NA>,0.2,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2019,14,14,<NA>,0.24,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2020,14,14,<NA>,0.34,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2021,14,14,<NA>,0.41,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2022,14,14,<NA>,0.46,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2023,14,14,<NA>,0.48,female,1
+HPV,routine,FSM,Micronesia (Federated States of),2024,14,14,<NA>,0.48,female,1
+HPV,routine,MNE,Montenegro,2006,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2007,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2008,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2009,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2010,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2011,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2012,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2013,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2014,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2015,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2016,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2017,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2018,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2019,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2020,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2021,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2022,14,14,<NA>,0,female,1
+HPV,routine,MNE,Montenegro,2023,14,14,<NA>,0.19,female,1
+HPV,routine,MNE,Montenegro,2024,14,14,<NA>,0.23,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2006,14,14,<NA>,0,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2007,14,14,<NA>,0,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2008,14,14,<NA>,0,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2009,14,14,<NA>,0,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2010,14,14,<NA>,0,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2011,14,14,<NA>,0,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2012,14,14,<NA>,0.55,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2013,14,14,<NA>,0.57,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2014,14,14,<NA>,0.57,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2015,14,14,<NA>,0.6,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2016,14,14,<NA>,0.63,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2017,14,14,<NA>,0.56,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2018,14,14,<NA>,0.51,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2019,14,14,<NA>,0.52,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2020,14,14,<NA>,0.61,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2021,14,14,<NA>,0.69,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2022,14,14,<NA>,0.68,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2023,14,14,<NA>,0.66,female,1
+HPV,routine,NLD,Netherlands (Kingdom of the),2024,14,14,<NA>,0.65,female,1
+HPV,routine,NZL,New Zealand,2006,14,14,<NA>,0,female,1
+HPV,routine,NZL,New Zealand,2007,14,14,<NA>,0,female,1
+HPV,routine,NZL,New Zealand,2008,14,14,<NA>,0,female,1
+HPV,routine,NZL,New Zealand,2009,14,14,<NA>,0,female,1
+HPV,routine,NZL,New Zealand,2010,14,14,<NA>,0,female,1
+HPV,routine,NZL,New Zealand,2011,14,14,<NA>,0,female,1
+HPV,routine,NZL,New Zealand,2012,14,14,<NA>,0,female,1
+HPV,routine,NZL,New Zealand,2013,14,14,<NA>,0.46,female,1
+HPV,routine,NZL,New Zealand,2014,14,14,<NA>,0.45,female,1
+HPV,routine,NZL,New Zealand,2015,14,14,<NA>,0.55,female,1
+HPV,routine,NZL,New Zealand,2016,14,14,<NA>,0.58,female,1
+HPV,routine,NZL,New Zealand,2017,14,14,<NA>,0.59,female,1
+HPV,routine,NZL,New Zealand,2018,14,14,<NA>,0.57,female,1
+HPV,routine,NZL,New Zealand,2019,14,14,<NA>,0.63,female,1
+HPV,routine,NZL,New Zealand,2020,14,14,<NA>,0.64,female,1
+HPV,routine,NZL,New Zealand,2021,14,14,<NA>,0.67,female,1
+HPV,routine,NZL,New Zealand,2022,14,14,<NA>,0.68,female,1
+HPV,routine,NZL,New Zealand,2023,14,14,<NA>,0.68,female,1
+HPV,routine,NZL,New Zealand,2024,14,14,<NA>,0.54,female,1
+HPV,routine,NGA,Nigeria,2006,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2007,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2008,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2009,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2010,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2011,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2012,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2013,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2014,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2015,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2016,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2017,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2018,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2019,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2020,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2021,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2022,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2023,14,14,<NA>,0,female,1
+HPV,routine,NGA,Nigeria,2024,14,14,<NA>,0.3,female,1
+HPV,routine,NIU,Niue,2006,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2007,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2008,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2009,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2010,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2011,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2012,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2013,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2014,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2015,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2016,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2017,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2018,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2019,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2020,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2021,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2022,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2023,14,14,<NA>,0,female,1
+HPV,routine,NIU,Niue,2024,14,14,<NA>,0.72,female,1
+HPV,routine,MKD,North Macedonia,2006,14,14,<NA>,0,female,1
+HPV,routine,MKD,North Macedonia,2007,14,14,<NA>,0,female,1
+HPV,routine,MKD,North Macedonia,2008,14,14,<NA>,0,female,1
+HPV,routine,MKD,North Macedonia,2009,14,14,<NA>,0,female,1
+HPV,routine,MKD,North Macedonia,2010,14,14,<NA>,0,female,1
+HPV,routine,MKD,North Macedonia,2011,14,14,<NA>,0,female,1
+HPV,routine,MKD,North Macedonia,2012,14,14,<NA>,0,female,1
+HPV,routine,MKD,North Macedonia,2013,14,14,<NA>,0.31,female,1
+HPV,routine,MKD,North Macedonia,2014,14,14,<NA>,0.46,female,1
+HPV,routine,MKD,North Macedonia,2015,14,14,<NA>,0.41,female,1
+HPV,routine,MKD,North Macedonia,2016,14,14,<NA>,0.34,female,1
+HPV,routine,MKD,North Macedonia,2017,14,14,<NA>,0.47,female,1
+HPV,routine,MKD,North Macedonia,2018,14,14,<NA>,0.32,female,1
+HPV,routine,MKD,North Macedonia,2019,14,14,<NA>,0.48,female,1
+HPV,routine,MKD,North Macedonia,2020,14,14,<NA>,0.42,female,1
+HPV,routine,MKD,North Macedonia,2021,14,14,<NA>,0.44,female,1
+HPV,routine,MKD,North Macedonia,2022,14,14,<NA>,0.37,female,1
+HPV,routine,MKD,North Macedonia,2023,14,14,<NA>,0.31,female,1
+HPV,routine,MKD,North Macedonia,2024,14,14,<NA>,0.21,female,1
+HPV,routine,NOR,Norway,2006,14,14,<NA>,0,female,1
+HPV,routine,NOR,Norway,2007,14,14,<NA>,0,female,1
+HPV,routine,NOR,Norway,2008,14,14,<NA>,0,female,1
+HPV,routine,NOR,Norway,2009,14,14,<NA>,0,female,1
+HPV,routine,NOR,Norway,2010,14,14,<NA>,0,female,1
+HPV,routine,NOR,Norway,2011,14,14,<NA>,0,female,1
+HPV,routine,NOR,Norway,2012,14,14,<NA>,0,female,1
+HPV,routine,NOR,Norway,2013,14,14,<NA>,0.73,female,1
+HPV,routine,NOR,Norway,2014,14,14,<NA>,0.73,female,1
+HPV,routine,NOR,Norway,2015,14,14,<NA>,0.73,female,1
+HPV,routine,NOR,Norway,2016,14,14,<NA>,0.79,female,1
+HPV,routine,NOR,Norway,2017,14,14,<NA>,0.82,female,1
+HPV,routine,NOR,Norway,2018,14,14,<NA>,0.85,female,1
+HPV,routine,NOR,Norway,2019,14,14,<NA>,0.87,female,1
+HPV,routine,NOR,Norway,2020,14,14,<NA>,0.88,female,1
+HPV,routine,NOR,Norway,2021,14,14,<NA>,0.92,female,1
+HPV,routine,NOR,Norway,2022,14,14,<NA>,0.91,female,1
+HPV,routine,NOR,Norway,2023,14,14,<NA>,0.92,female,1
+HPV,routine,NOR,Norway,2024,14,14,<NA>,0.91,female,1
+HPV,routine,PLW,Palau,2006,14,14,<NA>,0,female,1
+HPV,routine,PLW,Palau,2007,14,14,<NA>,0,female,1
+HPV,routine,PLW,Palau,2008,14,14,<NA>,0,female,1
+HPV,routine,PLW,Palau,2009,14,14,<NA>,0,female,1
+HPV,routine,PLW,Palau,2010,14,14,<NA>,0,female,1
+HPV,routine,PLW,Palau,2011,14,14,<NA>,0,female,1
+HPV,routine,PLW,Palau,2012,14,14,<NA>,0,female,1
+HPV,routine,PLW,Palau,2013,14,14,<NA>,0.08,female,1
+HPV,routine,PLW,Palau,2014,14,14,<NA>,0.12,female,1
+HPV,routine,PLW,Palau,2015,14,14,<NA>,0.2,female,1
+HPV,routine,PLW,Palau,2016,14,14,<NA>,0.28,female,1
+HPV,routine,PLW,Palau,2017,14,14,<NA>,0.35,female,1
+HPV,routine,PLW,Palau,2018,14,14,<NA>,0.46,female,1
+HPV,routine,PLW,Palau,2019,14,14,<NA>,0.55,female,1
+HPV,routine,PLW,Palau,2020,14,14,<NA>,0.59,female,1
+HPV,routine,PLW,Palau,2021,14,14,<NA>,0.57,female,1
+HPV,routine,PLW,Palau,2022,14,14,<NA>,0.52,female,1
+HPV,routine,PLW,Palau,2023,14,14,<NA>,0.43,female,1
+HPV,routine,PLW,Palau,2024,14,14,<NA>,0.43,female,1
+HPV,routine,PAN,Panama,2006,14,14,<NA>,0,female,1
+HPV,routine,PAN,Panama,2007,14,14,<NA>,0,female,1
+HPV,routine,PAN,Panama,2008,14,14,<NA>,0,female,1
+HPV,routine,PAN,Panama,2009,14,14,<NA>,0,female,1
+HPV,routine,PAN,Panama,2010,14,14,<NA>,0,female,1
+HPV,routine,PAN,Panama,2011,14,14,<NA>,0,female,1
+HPV,routine,PAN,Panama,2012,14,14,<NA>,0,female,1
+HPV,routine,PAN,Panama,2013,14,14,<NA>,0,female,1
+HPV,routine,PAN,Panama,2014,14,14,<NA>,0.44,female,1
+HPV,routine,PAN,Panama,2015,14,14,<NA>,0.65,female,1
+HPV,routine,PAN,Panama,2016,14,14,<NA>,0.79,female,1
+HPV,routine,PAN,Panama,2017,14,14,<NA>,0.78,female,1
+HPV,routine,PAN,Panama,2018,14,14,<NA>,0.74,female,1
+HPV,routine,PAN,Panama,2019,14,14,<NA>,0.8,female,1
+HPV,routine,PAN,Panama,2020,14,14,<NA>,0.58,female,1
+HPV,routine,PAN,Panama,2021,14,14,<NA>,0.77,female,1
+HPV,routine,PAN,Panama,2022,14,14,<NA>,0.71,female,1
+HPV,routine,PAN,Panama,2023,14,14,<NA>,0.69,female,1
+HPV,routine,PAN,Panama,2024,14,14,<NA>,0.73,female,1
+HPV,routine,PRY,Paraguay,2006,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2007,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2008,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2009,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2010,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2011,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2012,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2013,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2014,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2015,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2016,14,14,<NA>,0,female,1
+HPV,routine,PRY,Paraguay,2017,14,14,<NA>,0.86,female,1
+HPV,routine,PRY,Paraguay,2018,14,14,<NA>,0.82,female,1
+HPV,routine,PRY,Paraguay,2019,14,14,<NA>,0.75,female,1
+HPV,routine,PRY,Paraguay,2020,14,14,<NA>,0.72,female,1
+HPV,routine,PRY,Paraguay,2021,14,14,<NA>,0.78,female,1
+HPV,routine,PRY,Paraguay,2022,14,14,<NA>,0.74,female,1
+HPV,routine,PRY,Paraguay,2023,14,14,<NA>,0.75,female,1
+HPV,routine,PRY,Paraguay,2024,14,14,<NA>,0.73,female,1
+HPV,routine,PER,Peru,2006,14,14,<NA>,0,female,1
+HPV,routine,PER,Peru,2007,14,14,<NA>,0,female,1
+HPV,routine,PER,Peru,2008,14,14,<NA>,0,female,1
+HPV,routine,PER,Peru,2009,14,14,<NA>,0,female,1
+HPV,routine,PER,Peru,2010,14,14,<NA>,0,female,1
+HPV,routine,PER,Peru,2011,14,14,<NA>,0,female,1
+HPV,routine,PER,Peru,2012,14,14,<NA>,0,female,1
+HPV,routine,PER,Peru,2013,14,14,<NA>,0,female,1
+HPV,routine,PER,Peru,2014,14,14,<NA>,0,female,1
+HPV,routine,PER,Peru,2015,14,14,<NA>,0,female,1
+HPV,routine,PER,Peru,2016,14,14,<NA>,0.81,female,1
+HPV,routine,PER,Peru,2017,14,14,<NA>,0.09,female,1
+HPV,routine,PER,Peru,2018,14,14,<NA>,0.33,female,1
+HPV,routine,PER,Peru,2019,14,14,<NA>,0.63,female,1
+HPV,routine,PER,Peru,2020,14,14,<NA>,0.68,female,1
+HPV,routine,PER,Peru,2021,14,14,<NA>,0.74,female,1
+HPV,routine,PER,Peru,2022,14,14,<NA>,0.69,female,1
+HPV,routine,PER,Peru,2023,14,14,<NA>,0.74,female,1
+HPV,routine,PER,Peru,2024,14,14,<NA>,0.99,female,1
+HPV,routine,PHL,Philippines,2006,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2007,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2008,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2009,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2010,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2011,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2012,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2013,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2014,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2015,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2016,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2017,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2018,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2019,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2020,14,14,<NA>,0,female,1
+HPV,routine,PHL,Philippines,2021,14,14,<NA>,0.22,female,1
+HPV,routine,PHL,Philippines,2022,14,14,<NA>,0.23,female,1
+HPV,routine,PHL,Philippines,2023,14,14,<NA>,0.03,female,1
+HPV,routine,PHL,Philippines,2024,14,14,<NA>,0.01,female,1
+HPV,routine,POL,Poland,2006,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2007,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2008,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2009,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2010,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2011,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2012,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2013,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2014,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2015,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2016,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2017,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2018,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2019,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2020,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2021,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2022,14,14,<NA>,0,female,1
+HPV,routine,POL,Poland,2023,14,14,<NA>,0.1,female,1
+HPV,routine,POL,Poland,2024,14,14,<NA>,0.13,female,1
+HPV,routine,PRT,Portugal,2006,14,14,<NA>,0,female,1
+HPV,routine,PRT,Portugal,2007,14,14,<NA>,0,female,1
+HPV,routine,PRT,Portugal,2008,14,14,<NA>,0,female,1
+HPV,routine,PRT,Portugal,2009,14,14,<NA>,0,female,1
+HPV,routine,PRT,Portugal,2010,14,14,<NA>,0.92,female,1
+HPV,routine,PRT,Portugal,2011,14,14,<NA>,0.94,female,1
+HPV,routine,PRT,Portugal,2012,14,14,<NA>,0.96,female,1
+HPV,routine,PRT,Portugal,2013,14,14,<NA>,0.96,female,1
+HPV,routine,PRT,Portugal,2014,14,14,<NA>,0.97,female,1
+HPV,routine,PRT,Portugal,2015,14,14,<NA>,0.93,female,1
+HPV,routine,PRT,Portugal,2016,14,14,<NA>,0.72,female,1
+HPV,routine,PRT,Portugal,2017,14,14,<NA>,0.89,female,1
+HPV,routine,PRT,Portugal,2018,14,14,<NA>,0.92,female,1
+HPV,routine,PRT,Portugal,2019,14,14,<NA>,0.95,female,1
+HPV,routine,PRT,Portugal,2020,14,14,<NA>,0.98,female,1
+HPV,routine,PRT,Portugal,2021,14,14,<NA>,0.97,female,1
+HPV,routine,PRT,Portugal,2022,14,14,<NA>,0.94,female,1
+HPV,routine,PRT,Portugal,2023,14,14,<NA>,0.91,female,1
+HPV,routine,PRT,Portugal,2024,14,14,<NA>,0.96,female,1
+HPV,routine,QAT,Qatar,2006,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2007,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2008,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2009,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2010,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2011,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2012,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2013,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2014,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2015,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2016,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2017,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2018,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2019,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2020,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2021,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2022,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2023,14,14,<NA>,0,female,1
+HPV,routine,QAT,Qatar,2024,14,14,<NA>,0.01,female,1
+HPV,routine,KOR,Republic of Korea,2006,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2007,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2008,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2009,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2010,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2011,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2012,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2013,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2014,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2015,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2016,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2017,14,14,<NA>,0,female,1
+HPV,routine,KOR,Republic of Korea,2018,14,14,<NA>,0.47,female,1
+HPV,routine,KOR,Republic of Korea,2019,14,14,<NA>,0.64,female,1
+HPV,routine,KOR,Republic of Korea,2020,14,14,<NA>,0.75,female,1
+HPV,routine,KOR,Republic of Korea,2021,14,14,<NA>,0.67,female,1
+HPV,routine,KOR,Republic of Korea,2022,14,14,<NA>,0.74,female,1
+HPV,routine,KOR,Republic of Korea,2023,14,14,<NA>,0.66,female,1
+HPV,routine,KOR,Republic of Korea,2024,14,14,<NA>,0.65,female,1
+HPV,routine,MDA,Republic of Moldova,2006,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2007,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2008,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2009,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2010,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2011,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2012,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2013,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2014,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2015,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2016,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2017,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2018,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2019,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2020,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2021,14,14,<NA>,0,female,1
+HPV,routine,MDA,Republic of Moldova,2022,14,14,<NA>,0.49,female,1
+HPV,routine,MDA,Republic of Moldova,2023,14,14,<NA>,0.49,female,1
+HPV,routine,MDA,Republic of Moldova,2024,14,14,<NA>,0.34,female,1
+HPV,routine,ROU,Romania,2006,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2007,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2008,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2009,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2010,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2011,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2012,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2013,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2014,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2015,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2016,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2017,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2018,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2019,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2020,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2021,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2022,14,14,<NA>,0,female,1
+HPV,routine,ROU,Romania,2023,14,14,<NA>,0.14,female,1
+HPV,routine,ROU,Romania,2024,14,14,<NA>,0.23,female,1
+HPV,routine,RWA,Rwanda,2006,14,14,<NA>,0,female,1
+HPV,routine,RWA,Rwanda,2007,14,14,<NA>,0,female,1
+HPV,routine,RWA,Rwanda,2008,14,14,<NA>,0,female,1
+HPV,routine,RWA,Rwanda,2009,14,14,<NA>,0,female,1
+HPV,routine,RWA,Rwanda,2010,14,14,<NA>,0,female,1
+HPV,routine,RWA,Rwanda,2011,14,14,<NA>,0,female,1
+HPV,routine,RWA,Rwanda,2012,14,14,<NA>,0.17,female,1
+HPV,routine,RWA,Rwanda,2013,14,14,<NA>,0.29,female,1
+HPV,routine,RWA,Rwanda,2014,14,14,<NA>,0.37,female,1
+HPV,routine,RWA,Rwanda,2015,14,14,<NA>,0.44,female,1
+HPV,routine,RWA,Rwanda,2016,14,14,<NA>,0.54,female,1
+HPV,routine,RWA,Rwanda,2017,14,14,<NA>,0.63,female,1
+HPV,routine,RWA,Rwanda,2018,14,14,<NA>,0.72,female,1
+HPV,routine,RWA,Rwanda,2019,14,14,<NA>,0.79,female,1
+HPV,routine,RWA,Rwanda,2020,14,14,<NA>,0.76,female,1
+HPV,routine,RWA,Rwanda,2021,14,14,<NA>,0.8,female,1
+HPV,routine,RWA,Rwanda,2022,14,14,<NA>,0.89,female,1
+HPV,routine,RWA,Rwanda,2023,14,14,<NA>,0.66,female,1
+HPV,routine,RWA,Rwanda,2024,14,14,<NA>,0.73,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2006,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2007,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2008,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2009,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2010,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2011,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2012,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2013,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2014,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2015,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2016,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2017,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2018,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2019,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2020,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2021,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2022,14,14,<NA>,0,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2023,14,14,<NA>,0.9,female,1
+HPV,routine,KNA,Saint Kitts and Nevis,2024,14,14,<NA>,0.74,female,1
+HPV,routine,LCA,Saint Lucia,2006,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2007,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2008,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2009,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2010,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2011,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2012,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2013,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2014,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2015,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2016,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2017,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2018,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2019,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2020,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2021,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2022,14,14,<NA>,0,female,1
+HPV,routine,LCA,Saint Lucia,2023,14,14,<NA>,0.6,female,1
+HPV,routine,LCA,Saint Lucia,2024,14,14,<NA>,0.52,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2006,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2007,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2008,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2009,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2010,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2011,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2012,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2013,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2014,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2015,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2016,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2017,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2018,14,14,<NA>,0,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2019,14,14,<NA>,0.04,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2020,14,14,<NA>,0.11,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2021,14,14,<NA>,0.13,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2022,14,14,<NA>,0.043,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2023,14,14,<NA>,0.055,female,1
+HPV,routine,VCT,Saint Vincent and the Grenadines,2024,14,14,<NA>,0.068,female,1
+HPV,routine,WSM,Samoa,2006,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2007,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2008,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2009,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2010,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2011,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2012,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2013,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2014,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2015,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2016,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2017,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2018,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2019,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2020,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2021,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2022,14,14,<NA>,0,female,1
+HPV,routine,WSM,Samoa,2023,14,14,<NA>,0.87,female,1
+HPV,routine,WSM,Samoa,2024,14,14,<NA>,0.87,female,1
+HPV,routine,SMR,San Marino,2006,14,14,<NA>,0,female,1
+HPV,routine,SMR,San Marino,2007,14,14,<NA>,0,female,1
+HPV,routine,SMR,San Marino,2008,14,14,<NA>,0,female,1
+HPV,routine,SMR,San Marino,2009,14,14,<NA>,0,female,1
+HPV,routine,SMR,San Marino,2010,14,14,<NA>,0,female,1
+HPV,routine,SMR,San Marino,2011,14,14,<NA>,0,female,1
+HPV,routine,SMR,San Marino,2012,14,14,<NA>,0,female,1
+HPV,routine,SMR,San Marino,2013,14,14,<NA>,0,female,1
+HPV,routine,SMR,San Marino,2014,14,14,<NA>,0,female,1
+HPV,routine,SMR,San Marino,2015,14,14,<NA>,0,female,1
+HPV,routine,SMR,San Marino,2016,14,14,<NA>,0.14,female,1
+HPV,routine,SMR,San Marino,2017,14,14,<NA>,0.07,female,1
+HPV,routine,SMR,San Marino,2018,14,14,<NA>,0.31,female,1
+HPV,routine,SMR,San Marino,2019,14,14,<NA>,0.37,female,1
+HPV,routine,SMR,San Marino,2020,14,14,<NA>,0.23,female,1
+HPV,routine,SMR,San Marino,2021,14,14,<NA>,0.61,female,1
+HPV,routine,SMR,San Marino,2022,14,14,<NA>,0.68,female,1
+HPV,routine,SMR,San Marino,2023,14,14,<NA>,0.5,female,1
+HPV,routine,SMR,San Marino,2024,14,14,<NA>,0.53,female,1
+HPV,routine,STP,Sao Tome and Principe,2006,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2007,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2008,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2009,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2010,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2011,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2012,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2013,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2014,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2015,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2016,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2017,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2018,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2019,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2020,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2021,14,14,<NA>,0,female,1
+HPV,routine,STP,Sao Tome and Principe,2022,14,14,<NA>,0.55,female,1
+HPV,routine,STP,Sao Tome and Principe,2023,14,14,<NA>,0.8,female,1
+HPV,routine,STP,Sao Tome and Principe,2024,14,14,<NA>,0.8,female,1
+HPV,routine,SAU,Saudi Arabia,2006,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2007,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2008,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2009,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2010,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2011,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2012,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2013,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2014,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2015,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2016,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2017,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2018,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2019,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2020,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2021,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2022,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2023,14,14,<NA>,0,female,1
+HPV,routine,SAU,Saudi Arabia,2024,14,14,<NA>,0.47,female,1
+HPV,routine,SEN,Senegal,2006,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2007,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2008,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2009,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2010,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2011,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2012,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2013,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2014,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2015,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2016,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2017,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2018,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2019,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2020,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2021,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2022,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2023,14,14,<NA>,0,female,1
+HPV,routine,SEN,Senegal,2024,14,14,<NA>,0.26,female,1
+HPV,routine,SRB,Serbia,2006,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2007,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2008,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2009,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2010,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2011,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2012,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2013,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2014,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2015,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2016,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2017,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2018,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2019,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2020,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2021,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2022,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2023,14,14,<NA>,0,female,1
+HPV,routine,SRB,Serbia,2024,14,14,<NA>,0.02,female,1
+HPV,routine,SYC,Seychelles,2006,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2007,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2008,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2009,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2010,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2011,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2012,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2013,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2014,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2015,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2016,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2017,14,14,<NA>,0,female,1
+HPV,routine,SYC,Seychelles,2018,14,14,<NA>,0.76,female,1
+HPV,routine,SYC,Seychelles,2019,14,14,<NA>,0.83,female,1
+HPV,routine,SYC,Seychelles,2020,14,14,<NA>,0.91,female,1
+HPV,routine,SYC,Seychelles,2021,14,14,<NA>,0.77,female,1
+HPV,routine,SYC,Seychelles,2022,14,14,<NA>,0.88,female,1
+HPV,routine,SYC,Seychelles,2023,14,14,<NA>,0.62,female,1
+HPV,routine,SYC,Seychelles,2024,14,14,<NA>,0.23,female,1
+HPV,routine,SGP,Singapore,2006,14,14,<NA>,0,female,1
+HPV,routine,SGP,Singapore,2007,14,14,<NA>,0,female,1
+HPV,routine,SGP,Singapore,2008,14,14,<NA>,0,female,1
+HPV,routine,SGP,Singapore,2009,14,14,<NA>,0,female,1
+HPV,routine,SGP,Singapore,2010,14,14,<NA>,0,female,1
+HPV,routine,SGP,Singapore,2011,14,14,<NA>,0,female,1
+HPV,routine,SGP,Singapore,2012,14,14,<NA>,0,female,1
+HPV,routine,SGP,Singapore,2013,14,14,<NA>,0,female,1
+HPV,routine,SGP,Singapore,2014,14,14,<NA>,0.01,female,1
+HPV,routine,SGP,Singapore,2015,14,14,<NA>,0.01,female,1
+HPV,routine,SGP,Singapore,2016,14,14,<NA>,0.01,female,1
+HPV,routine,SGP,Singapore,2017,14,14,<NA>,0.01,female,1
+HPV,routine,SGP,Singapore,2018,14,14,<NA>,0,female,1
+HPV,routine,SGP,Singapore,2019,14,14,<NA>,0,female,1
+HPV,routine,SGP,Singapore,2020,14,14,<NA>,0.28,female,1
+HPV,routine,SGP,Singapore,2021,14,14,<NA>,0.58,female,1
+HPV,routine,SGP,Singapore,2022,14,14,<NA>,0.8,female,1
+HPV,routine,SGP,Singapore,2023,14,14,<NA>,0.88,female,1
+HPV,routine,SGP,Singapore,2024,14,14,<NA>,0.68,female,1
+HPV,routine,SVK,Slovakia,2006,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2007,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2008,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2009,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2010,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2011,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2012,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2013,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2014,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2015,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2016,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2017,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2018,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2019,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2020,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2021,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2022,14,14,<NA>,0,female,1
+HPV,routine,SVK,Slovakia,2023,14,14,<NA>,0.2,female,1
+HPV,routine,SVK,Slovakia,2024,14,14,<NA>,0.29,female,1
+HPV,routine,SVN,Slovenia,2006,14,14,<NA>,0,female,1
+HPV,routine,SVN,Slovenia,2007,14,14,<NA>,0,female,1
+HPV,routine,SVN,Slovenia,2008,14,14,<NA>,0,female,1
+HPV,routine,SVN,Slovenia,2009,14,14,<NA>,0,female,1
+HPV,routine,SVN,Slovenia,2010,14,14,<NA>,0,female,1
+HPV,routine,SVN,Slovenia,2011,14,14,<NA>,0,female,1
+HPV,routine,SVN,Slovenia,2012,14,14,<NA>,0,female,1
+HPV,routine,SVN,Slovenia,2013,14,14,<NA>,0,female,1
+HPV,routine,SVN,Slovenia,2014,14,14,<NA>,0.45,female,1
+HPV,routine,SVN,Slovenia,2015,14,14,<NA>,0.46,female,1
+HPV,routine,SVN,Slovenia,2016,14,14,<NA>,0.5,female,1
+HPV,routine,SVN,Slovenia,2017,14,14,<NA>,0.39,female,1
+HPV,routine,SVN,Slovenia,2018,14,14,<NA>,0.44,female,1
+HPV,routine,SVN,Slovenia,2019,14,14,<NA>,0.4,female,1
+HPV,routine,SVN,Slovenia,2020,14,14,<NA>,0.4,female,1
+HPV,routine,SVN,Slovenia,2021,14,14,<NA>,0.42,female,1
+HPV,routine,SVN,Slovenia,2022,14,14,<NA>,0.44,female,1
+HPV,routine,SVN,Slovenia,2023,14,14,<NA>,0.52,female,1
+HPV,routine,SVN,Slovenia,2024,14,14,<NA>,0.61,female,1
+HPV,routine,SLB,Solomon Islands,2006,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2007,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2008,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2009,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2010,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2011,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2012,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2013,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2014,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2015,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2016,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2017,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2018,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2019,14,14,<NA>,0,female,1
+HPV,routine,SLB,Solomon Islands,2020,14,14,<NA>,0.17,female,1
+HPV,routine,SLB,Solomon Islands,2021,14,14,<NA>,0.17,female,1
+HPV,routine,SLB,Solomon Islands,2022,14,14,<NA>,0.17,female,1
+HPV,routine,SLB,Solomon Islands,2023,14,14,<NA>,0.17,female,1
+HPV,routine,SLB,Solomon Islands,2024,14,14,<NA>,0.51,female,1
+HPV,routine,ZAF,South Africa,2006,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2007,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2008,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2009,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2010,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2011,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2012,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2013,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2014,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2015,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2016,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2017,14,14,<NA>,0,female,1
+HPV,routine,ZAF,South Africa,2018,14,14,<NA>,0.09,female,1
+HPV,routine,ZAF,South Africa,2019,14,14,<NA>,0.28,female,1
+HPV,routine,ZAF,South Africa,2020,14,14,<NA>,0.61,female,1
+HPV,routine,ZAF,South Africa,2021,14,14,<NA>,0.71,female,1
+HPV,routine,ZAF,South Africa,2022,14,14,<NA>,0.54,female,1
+HPV,routine,ZAF,South Africa,2023,14,14,<NA>,0.2,female,1
+HPV,routine,ZAF,South Africa,2024,14,14,<NA>,0.44,female,1
+HPV,routine,ESP,Spain,2006,14,14,<NA>,0,female,1
+HPV,routine,ESP,Spain,2007,14,14,<NA>,0,female,1
+HPV,routine,ESP,Spain,2008,14,14,<NA>,0,female,1
+HPV,routine,ESP,Spain,2009,14,14,<NA>,0,female,1
+HPV,routine,ESP,Spain,2010,14,14,<NA>,0,female,1
+HPV,routine,ESP,Spain,2011,14,14,<NA>,0,female,1
+HPV,routine,ESP,Spain,2012,14,14,<NA>,0.61,female,1
+HPV,routine,ESP,Spain,2013,14,14,<NA>,0.66,female,1
+HPV,routine,ESP,Spain,2014,14,14,<NA>,0.71,female,1
+HPV,routine,ESP,Spain,2015,14,14,<NA>,0.73,female,1
+HPV,routine,ESP,Spain,2016,14,14,<NA>,0.71,female,1
+HPV,routine,ESP,Spain,2017,14,14,<NA>,0.78,female,1
+HPV,routine,ESP,Spain,2018,14,14,<NA>,0.82,female,1
+HPV,routine,ESP,Spain,2019,14,14,<NA>,0.75,female,1
+HPV,routine,ESP,Spain,2020,14,14,<NA>,0.76,female,1
+HPV,routine,ESP,Spain,2021,14,14,<NA>,0.79,female,1
+HPV,routine,ESP,Spain,2022,14,14,<NA>,0.86,female,1
+HPV,routine,ESP,Spain,2023,14,14,<NA>,0.86,female,1
+HPV,routine,ESP,Spain,2024,14,14,<NA>,0.85,female,1
+HPV,routine,LKA,Sri Lanka,2006,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2007,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2008,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2009,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2010,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2011,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2012,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2013,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2014,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2015,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2016,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2017,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2018,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2019,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2020,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2021,14,14,<NA>,0,female,1
+HPV,routine,LKA,Sri Lanka,2022,14,14,<NA>,0.41,female,1
+HPV,routine,LKA,Sri Lanka,2023,14,14,<NA>,0.94,female,1
+HPV,routine,LKA,Sri Lanka,2024,14,14,<NA>,0.74,female,1
+HPV,routine,SUR,Suriname,2006,14,14,<NA>,0,female,1
+HPV,routine,SUR,Suriname,2007,14,14,<NA>,0,female,1
+HPV,routine,SUR,Suriname,2008,14,14,<NA>,0,female,1
+HPV,routine,SUR,Suriname,2009,14,14,<NA>,0,female,1
+HPV,routine,SUR,Suriname,2010,14,14,<NA>,0,female,1
+HPV,routine,SUR,Suriname,2011,14,14,<NA>,0,female,1
+HPV,routine,SUR,Suriname,2012,14,14,<NA>,0,female,1
+HPV,routine,SUR,Suriname,2013,14,14,<NA>,0,female,1
+HPV,routine,SUR,Suriname,2014,14,14,<NA>,0,female,1
+HPV,routine,SUR,Suriname,2015,14,14,<NA>,0,female,1
+HPV,routine,SUR,Suriname,2016,14,14,<NA>,0.36,female,1
+HPV,routine,SUR,Suriname,2017,14,14,<NA>,0.36,female,1
+HPV,routine,SUR,Suriname,2018,14,14,<NA>,0.36,female,1
+HPV,routine,SUR,Suriname,2019,14,14,<NA>,0.36,female,1
+HPV,routine,SUR,Suriname,2020,14,14,<NA>,0.36,female,1
+HPV,routine,SUR,Suriname,2021,14,14,<NA>,0.63,female,1
+HPV,routine,SUR,Suriname,2022,14,14,<NA>,0.34,female,1
+HPV,routine,SUR,Suriname,2023,14,14,<NA>,0.55,female,1
+HPV,routine,SUR,Suriname,2024,14,14,<NA>,0.55,female,1
+HPV,routine,SWE,Sweden,2006,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2007,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2008,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2009,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2010,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2011,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2012,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2013,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2014,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2015,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2016,14,14,<NA>,0,female,1
+HPV,routine,SWE,Sweden,2017,14,14,<NA>,0.78,female,1
+HPV,routine,SWE,Sweden,2018,14,14,<NA>,0.76,female,1
+HPV,routine,SWE,Sweden,2019,14,14,<NA>,0.75,female,1
+HPV,routine,SWE,Sweden,2020,14,14,<NA>,0.8,female,1
+HPV,routine,SWE,Sweden,2021,14,14,<NA>,0.84,female,1
+HPV,routine,SWE,Sweden,2022,14,14,<NA>,0.85,female,1
+HPV,routine,SWE,Sweden,2023,14,14,<NA>,0.85,female,1
+HPV,routine,SWE,Sweden,2024,14,14,<NA>,0.86,female,1
+HPV,routine,CHE,Switzerland,2006,14,14,<NA>,0,female,1
+HPV,routine,CHE,Switzerland,2007,14,14,<NA>,0,female,1
+HPV,routine,CHE,Switzerland,2008,14,14,<NA>,0,female,1
+HPV,routine,CHE,Switzerland,2009,14,14,<NA>,0,female,1
+HPV,routine,CHE,Switzerland,2010,14,14,<NA>,0.2,female,1
+HPV,routine,CHE,Switzerland,2011,14,14,<NA>,0.51,female,1
+HPV,routine,CHE,Switzerland,2012,14,14,<NA>,0.51,female,1
+HPV,routine,CHE,Switzerland,2013,14,14,<NA>,0.51,female,1
+HPV,routine,CHE,Switzerland,2014,14,14,<NA>,0.56,female,1
+HPV,routine,CHE,Switzerland,2015,14,14,<NA>,0.56,female,1
+HPV,routine,CHE,Switzerland,2016,14,14,<NA>,0.56,female,1
+HPV,routine,CHE,Switzerland,2017,14,14,<NA>,0.59,female,1
+HPV,routine,CHE,Switzerland,2018,14,14,<NA>,0.59,female,1
+HPV,routine,CHE,Switzerland,2019,14,14,<NA>,0.59,female,1
+HPV,routine,CHE,Switzerland,2020,14,14,<NA>,0.63,female,1
+HPV,routine,CHE,Switzerland,2021,14,14,<NA>,0.71,female,1
+HPV,routine,CHE,Switzerland,2022,14,14,<NA>,0.71,female,1
+HPV,routine,CHE,Switzerland,2023,14,14,<NA>,0.7,female,1
+HPV,routine,CHE,Switzerland,2024,14,14,<NA>,0.7,female,1
+HPV,routine,THA,Thailand,2006,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2007,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2008,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2009,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2010,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2011,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2012,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2013,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2014,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2015,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2016,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2017,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2018,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2019,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2020,14,14,<NA>,0,female,1
+HPV,routine,THA,Thailand,2021,14,14,<NA>,0.66,female,1
+HPV,routine,THA,Thailand,2022,14,14,<NA>,0.28,female,1
+HPV,routine,THA,Thailand,2023,14,14,<NA>,0.07,female,1
+HPV,routine,THA,Thailand,2024,14,14,<NA>,0.32,female,1
+HPV,routine,TGO,Togo,2006,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2007,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2008,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2009,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2010,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2011,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2012,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2013,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2014,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2015,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2016,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2017,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2018,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2019,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2020,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2021,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2022,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2023,14,14,<NA>,0,female,1
+HPV,routine,TGO,Togo,2024,14,14,<NA>,0.45,female,1
+HPV,routine,TON,Tonga,2006,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2007,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2008,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2009,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2010,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2011,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2012,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2013,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2014,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2015,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2016,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2017,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2018,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2019,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2020,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2021,14,14,<NA>,0,female,1
+HPV,routine,TON,Tonga,2022,14,14,<NA>,0.2,female,1
+HPV,routine,TON,Tonga,2023,14,14,<NA>,0.18,female,1
+HPV,routine,TON,Tonga,2024,14,14,<NA>,0.39,female,1
+HPV,routine,TTO,Trinidad and Tobago,2006,14,14,<NA>,0,female,1
+HPV,routine,TTO,Trinidad and Tobago,2007,14,14,<NA>,0,female,1
+HPV,routine,TTO,Trinidad and Tobago,2008,14,14,<NA>,0,female,1
+HPV,routine,TTO,Trinidad and Tobago,2009,14,14,<NA>,0,female,1
+HPV,routine,TTO,Trinidad and Tobago,2010,14,14,<NA>,0,female,1
+HPV,routine,TTO,Trinidad and Tobago,2011,14,14,<NA>,0,female,1
+HPV,routine,TTO,Trinidad and Tobago,2012,14,14,<NA>,0,female,1
+HPV,routine,TTO,Trinidad and Tobago,2013,14,14,<NA>,0,female,1
+HPV,routine,TTO,Trinidad and Tobago,2014,14,14,<NA>,0.08,female,1
+HPV,routine,TTO,Trinidad and Tobago,2015,14,14,<NA>,0.076,female,1
+HPV,routine,TTO,Trinidad and Tobago,2016,14,14,<NA>,0.072,female,1
+HPV,routine,TTO,Trinidad and Tobago,2017,14,14,<NA>,0.068,female,1
+HPV,routine,TTO,Trinidad and Tobago,2018,14,14,<NA>,0.064,female,1
+HPV,routine,TTO,Trinidad and Tobago,2019,14,14,<NA>,0.06,female,1
+HPV,routine,TTO,Trinidad and Tobago,2020,14,14,<NA>,0.06,female,1
+HPV,routine,TTO,Trinidad and Tobago,2021,14,14,<NA>,0.12,female,1
+HPV,routine,TTO,Trinidad and Tobago,2022,14,14,<NA>,0.13,female,1
+HPV,routine,TTO,Trinidad and Tobago,2023,14,14,<NA>,0.1,female,1
+HPV,routine,TTO,Trinidad and Tobago,2024,14,14,<NA>,0.16,female,1
+HPV,routine,TKM,Turkmenistan,2006,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2007,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2008,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2009,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2010,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2011,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2012,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2013,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2014,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2015,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2016,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2017,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2018,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2019,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2020,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2021,14,14,<NA>,0,female,1
+HPV,routine,TKM,Turkmenistan,2022,14,14,<NA>,0.93,female,1
+HPV,routine,TKM,Turkmenistan,2023,14,14,<NA>,0.97,female,1
+HPV,routine,TKM,Turkmenistan,2024,14,14,<NA>,0.97,female,1
+HPV,routine,UGA,Uganda,2006,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2007,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2008,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2009,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2010,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2011,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2012,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2013,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2014,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2015,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2016,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2017,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2018,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2019,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2020,14,14,<NA>,0,female,1
+HPV,routine,UGA,Uganda,2021,14,14,<NA>,0.3,female,1
+HPV,routine,UGA,Uganda,2022,14,14,<NA>,0.58,female,1
+HPV,routine,UGA,Uganda,2023,14,14,<NA>,0.76,female,1
+HPV,routine,UGA,Uganda,2024,14,14,<NA>,0.66,female,1
+HPV,routine,ARE,United Arab Emirates,2006,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2007,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2008,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2009,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2010,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2011,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2012,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2013,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2014,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2015,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2016,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2017,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2018,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2019,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2020,14,14,<NA>,0,female,1
+HPV,routine,ARE,United Arab Emirates,2021,14,14,<NA>,0.3,female,1
+HPV,routine,ARE,United Arab Emirates,2022,14,14,<NA>,0.31,female,1
+HPV,routine,ARE,United Arab Emirates,2023,14,14,<NA>,0.32,female,1
+HPV,routine,ARE,United Arab Emirates,2024,14,14,<NA>,0.37,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2006,14,14,<NA>,0,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2007,14,14,<NA>,0,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2008,14,14,<NA>,0,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2009,14,14,<NA>,0.841,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2010,14,14,<NA>,0.685,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2011,14,14,<NA>,0.81,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2012,14,14,<NA>,0.86,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2013,14,14,<NA>,0.76,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2014,14,14,<NA>,0.82,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2015,14,14,<NA>,0.86,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2016,14,14,<NA>,0.85,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2017,14,14,<NA>,0.85,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2018,14,14,<NA>,0.82,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2019,14,14,<NA>,0.8,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2020,14,14,<NA>,0.81,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2021,14,14,<NA>,0.81,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2022,14,14,<NA>,0.63,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2023,14,14,<NA>,0.68,female,1
+HPV,routine,GBR,United Kingdom of Great Britain and Northern Ireland,2024,14,14,<NA>,0.78,female,1
+HPV,routine,TZA,United Republic of Tanzania,2006,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2007,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2008,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2009,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2010,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2011,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2012,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2013,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2014,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2015,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2016,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2017,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2018,14,14,<NA>,0,female,1
+HPV,routine,TZA,United Republic of Tanzania,2019,14,14,<NA>,0.16,female,1
+HPV,routine,TZA,United Republic of Tanzania,2020,14,14,<NA>,0.44,female,1
+HPV,routine,TZA,United Republic of Tanzania,2021,14,14,<NA>,0.55,female,1
+HPV,routine,TZA,United Republic of Tanzania,2022,14,14,<NA>,0.56,female,1
+HPV,routine,TZA,United Republic of Tanzania,2023,14,14,<NA>,0.6,female,1
+HPV,routine,TZA,United Republic of Tanzania,2024,14,14,<NA>,0.99,female,1
+HPV,routine,USA,United States of America,2006,14,14,<NA>,0,female,1
+HPV,routine,USA,United States of America,2007,14,14,<NA>,0.059,female,1
+HPV,routine,USA,United States of America,2008,14,14,<NA>,0.179,female,1
+HPV,routine,USA,United States of America,2009,14,14,<NA>,0.267,female,1
+HPV,routine,USA,United States of America,2010,14,14,<NA>,0.32,female,1
+HPV,routine,USA,United States of America,2011,14,14,<NA>,0.38,female,1
+HPV,routine,USA,United States of America,2012,14,14,<NA>,0.35,female,1
+HPV,routine,USA,United States of America,2013,14,14,<NA>,0.39,female,1
+HPV,routine,USA,United States of America,2014,14,14,<NA>,0.41,female,1
+HPV,routine,USA,United States of America,2015,14,14,<NA>,0.44,female,1
+HPV,routine,USA,United States of America,2016,14,14,<NA>,0.52,female,1
+HPV,routine,USA,United States of America,2017,14,14,<NA>,0.53,female,1
+HPV,routine,USA,United States of America,2018,14,14,<NA>,0.55,female,1
+HPV,routine,USA,United States of America,2019,14,14,<NA>,0.62,female,1
+HPV,routine,USA,United States of America,2020,14,14,<NA>,0.64,female,1
+HPV,routine,USA,United States of America,2021,14,14,<NA>,0.69,female,1
+HPV,routine,USA,United States of America,2022,14,14,<NA>,0.68,female,1
+HPV,routine,USA,United States of America,2023,14,14,<NA>,0.65,female,1
+HPV,routine,USA,United States of America,2024,14,14,<NA>,0.65,female,1
+HPV,routine,URY,Uruguay,2006,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2007,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2008,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2009,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2010,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2011,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2012,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2013,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2014,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2015,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2016,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2017,14,14,<NA>,0,female,1
+HPV,routine,URY,Uruguay,2018,14,14,<NA>,0.33,female,1
+HPV,routine,URY,Uruguay,2019,14,14,<NA>,0.49,female,1
+HPV,routine,URY,Uruguay,2020,14,14,<NA>,0.5,female,1
+HPV,routine,URY,Uruguay,2021,14,14,<NA>,0.46,female,1
+HPV,routine,URY,Uruguay,2022,14,14,<NA>,0.48,female,1
+HPV,routine,URY,Uruguay,2023,14,14,<NA>,0.43,female,1
+HPV,routine,URY,Uruguay,2024,14,14,<NA>,0.53,female,1
+HPV,routine,ZMB,Zambia,2006,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2007,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2008,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2009,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2010,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2011,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2012,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2013,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2014,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2015,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2016,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2017,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2018,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2019,14,14,<NA>,0,female,1
+HPV,routine,ZMB,Zambia,2020,14,14,<NA>,0.68,female,1
+HPV,routine,ZMB,Zambia,2021,14,14,<NA>,0.33,female,1
+HPV,routine,ZMB,Zambia,2022,14,14,<NA>,0.38,female,1
+HPV,routine,ZMB,Zambia,2023,14,14,<NA>,0.38,female,1
+HPV,routine,ZMB,Zambia,2024,14,14,<NA>,0.12,female,1
+HPV,routine,ZWE,Zimbabwe,2006,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2007,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2008,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2009,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2010,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2011,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2012,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2013,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2014,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2015,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2016,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2017,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2018,14,14,<NA>,0,female,1
+HPV,routine,ZWE,Zimbabwe,2019,14,14,<NA>,0.64,female,1
+HPV,routine,ZWE,Zimbabwe,2020,14,14,<NA>,0.64,female,1
+HPV,routine,ZWE,Zimbabwe,2021,14,14,<NA>,0.64,female,1
+HPV,routine,ZWE,Zimbabwe,2022,14,14,<NA>,0.64,female,1
+HPV,routine,ZWE,Zimbabwe,2023,14,14,<NA>,0.64,female,1
+HPV,routine,ZWE,Zimbabwe,2024,14,14,<NA>,0.39,female,1
+2319,,,,,,,,,,
